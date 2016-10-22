@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 06"
 draft = false
-date = "2015-07-23"
+date = "2015-07-06"
 +++
 
 _pramana viparyaya vikalpa nidra smritayah_

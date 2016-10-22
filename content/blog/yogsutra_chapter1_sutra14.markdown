@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 14"
 draft = false
-date = "2015-07-24"
+date = "2015-07-14"
 +++
 
 _Sah tu dirgha kala nairantaira satkara asevitah dridha bhumih_

@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 11"
 draft = false
-date = "2015-07-23"
+date = "2015-07-11"
 +++
 
 _anubhuta vishaya asampramoshah smritih_
