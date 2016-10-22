@@ -7,7 +7,7 @@
 
         {{ partial "nav-affix.html" . }}
 
-        <section id="posts">
+        <section id="blog">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -25,16 +25,18 @@
                         </div>
 
                         {{ range .Pages }}
-                            {{ .Render "li"}}
+														<article class="blog">
+															<h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+															<h4>{{ .Date.Format "Mon, Jan 2, 2006"}}</h4>
+															{{ .Summary }}
+															<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+														</article>
                         {{ end }}
-
                         {{ end }}
                     </div>
-
                 </div>
             </div>
         </section>
-
     </body>
     {{ partial "footer.html" . }}
     {{ partial "js.html" . }}
