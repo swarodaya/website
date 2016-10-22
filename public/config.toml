@@ -1,0 +1,135 @@
+baseurl = "http://swarodaya.com/"
+languageCode = "en-us"
+title = "Swarodaya - the way of the breath"
+
+googleAnalytics = ""
+
+[params]
+
+    # You can use Markdown syntax for urls [text](//url.to/source) for
+    # most longer texts.
+
+    # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+    # for more icons. The icons are represented by their corresponding
+    # CSS class.
+
+    # All projects of the portfolio are defined in their own files.
+    # You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+    # folder into the 'data' directory at the root of this Hugo site.
+    # For more information take a look at the README.
+
+    # To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+    name = "Swarodaya"
+    description = "The Way of the Breath"
+
+    # The path must be relative to the static folder
+    favicon = "favicon.ico"
+
+
+    # Navigation
+    [params.navigation]
+        brand = "Home"
+
+        [params.navigation.links]
+            benefits  = "Benefits"
+            course   = "Course"
+            testimonials  = "Testimonials"
+            contact   = "Contact"
+
+    [[menu.main]]
+        name = "Blog"
+        identifier = "post"
+        url = "/post/"
+
+    # Hero section
+    [params.hero]
+        # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+        slogan     = "Swarodaya<br/>The Way of the Breath"
+        subtitle   = "&quot;The one who understands one's breath and its subtle elements, has known the Vedas&quot; -&nbsp;Shrimad Bhagwat.<br/><br/>Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that with that knowledge helps you to create abundance at all levels. Swarodaya Shastra, an authorative text on this subject is written as a conversation between Lord Shiva and his consort, Parvati.<br/><br/>Swar Shastra states that there are three main Nadis in the human body : The Chandra Or the Ida Nadi, The Surya Or the Pingala Nadi, and The Shunya Or the Sushumna Nadi. These Nadis operate alternately for certain duration of time in every hour. There are five Tatwas in the breath flow in every Nadi. The flow of the five Tatwas could be understood and recognised through several ways. Every Tatwa has a specific effect on our moods, behaviour and temprament.<br/><br/>A fine understanding and deep knowledge of three Nadis and the five Tatwas in every breath is the science of Swaryog. Swarodaya brings to you this ancient and sacred knowledge in the most lucid and easy to understand and practical methods, for a harmonious and happy life."
+
+
+    # Benefits section
+    [params.benefits]
+        headline = "Benefits"
+
+        [[params.benefits.list]]
+            icon = "fa-globe"
+            title = "Personal"
+            text = "<ul><li>You will be able to make days calmer and stress-free.<li>People around you will feel deeply connected with you thus creating healthy relationships.<li>You will be able decide the intellectual level and temperament of your child (when you plan to conceive).<li>You will be able to shift your mental focus to most relevant and beneficial areas of life and by-pass the irrelevant past memories.<li>You will be able to see future of happenings thus taking wise decisions to alter the same.<li>Everyday, you will be expand threshold of your awareness leading towards more insightful and enlightened living.<li>You will be able to diagnose Vastu-flaws in a building and will be able to decide accurate measures.<li>You can by pass negative influence of planets with knowledge of Breath Awareness.<li>You will able to heal and ensure longevity following the elements of breath.</ul>"
+
+        [[params.benefits.list]]
+            icon = "fa-money"
+            title = "Professional"
+            text = "<ul><li>Aligning your actions as per the breath rhythm, will help you create the desired outcome of your efforts.<li>Your interactions with people will be influential and impactful, wherever and whenever they happen. It can be a meeting, an email, a message or a chat.You will become intuitive to take profitable decisions.<li>You will be capable of converting any difficult situation in to a win-win resolve with a calm and a confident mind. Your planning for an event, travel or any strategy will always result into successful outcomes.<li>You will be able to absorb, remember and reproduce whatever you study and will be able to give your best performance (whether it's an exam, court-room or an important business presentation)." 
+
+    # Feature modals
+    [params.testimonials.modal]
+        buttonText = "Close"
+
+    [params.testimonials]
+        headline = "Here's what Swaryogis have to say about the experience"
+
+    # Features section
+    [[params.testimonials.list]]
+        modalID = 1
+        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore"
+        img = "vijayalaxmi.jpg"
+        description = "Bangalore, India"
+
+    [[params.testimonials.list]]
+        modalID = 2
+        title = "Prof. Dhanwant Singh<br/>Chancellor, Apex Professional University, Bangalore"
+        img = "dhanvantsingh.jpg"
+        description = "Chancellor, Apex Professional University, Bangalore"
+
+    [[params.testimonials.list]]
+        modalID = 3
+        title = "Mr. Tushar Deep Singh<br/>Restauranter, Spain"
+        img = "tushardeep.jpg"
+        description = "Restauranter, Spain"
+
+    [[params.testimonials.list]]
+        modalID = 4
+        title = "Ms. Himali Mahajan<br/>Principal Software Engineer<br/>Boston, USA"
+        img = "himali.jpg"
+        description = "Principal Software Engineer, Boston USA"
+
+    [[params.testimonials.list]]
+        modalID = 5
+        title = "Mr. Vinay Modi<br/>Director, PTEducation, Jaipur"
+        img = "vinaymodi.jpg"
+        description = "Director, PTEducation, Jaipur"
+
+    [[params.testimonials.list]]
+        modalID = 6
+        title = "Mr. Chidambara ST,<br/>Business Analyst, Bangalore "
+        img = "chidambaram.jpg"
+        description = "Business Analyst, Bangalore"
+
+    # Aside section
+    [params.aside]
+        headline = "Residential Course<br/>on<br/>Tue&nbsp;14<sup>th</sup>, Wed&nbsp;15<sup>th</sup>, Thu&nbsp;16<sup>th</sup>, Fri&nbsp;17<sup>th</sup><br/>of<br/>February, 2017"
+        text = "at<br/>[The Lalit Laxmi Vilas Palace, Udaipur](http://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/)"
+
+    # Aside section
+    [params.signup]
+        headline = "3- Or better yet, use Mayan EDMS on the cloud!"
+        text = "Sign up for the service announcement mailing list."
+
+    # Contact section
+    [params.contact]
+        headline = "Get In Touch!"
+        description = ""
+
+        [[params.contact.list]]
+            icon = "fa-envelope"
+            text = "[Email](mailto:info@swarodaya.com)"
+
+        [[params.contact.list]]
+            icon = "fa-facebook"
+            text = "[Facebook](https://www.facebook.com/swarodaya/)"
+
+        [[params.contact.list]]
+            icon = "fa-phone"
+            text = "+91-9989-670951"
