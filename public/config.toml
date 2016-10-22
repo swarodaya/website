@@ -1,5 +1,5 @@
 #baseurl = "./"
-baseurl = "https://swarodaya.github.io/website/"
+baseurl = "/website"
 publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - the way of the breath"
@@ -33,7 +33,7 @@ googleAnalytics = ""
     [[menu.main]]
         name = "Blog"
         identifier = "blog"
-        url = "blog"
+        url = "/blog/"
 
     # Hero section
     [params.hero]
