@@ -1,10 +1,16 @@
 <div class="container">
 		<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 text-center">
-						<ul class="pager">
-							<li class="previous"><a href="{{.Prev.Permalink}}">&larr; {{.Prev.Title}}</a></li>
-							<li class="next"><a href="{{.Next.Permalink}}">{{.Next.Title}} &rarr;</a></li>
-						</ul>
+						<nav aria-label="Page navigation">
+								<ul class="pager">
+									{{if .Prev}}
+									<li class="previous"><a href="{{.Prev.Permalink}}">&larr;</a></li>
+									{{end}}
+									{{if .Next}}
+									<li class="next"><a href="{{.Next.Permalink}}">&rarr;</a></li>
+									{{end}}
+								</ul>
+						</nav>
 				</div>
 		</div>
 </div>

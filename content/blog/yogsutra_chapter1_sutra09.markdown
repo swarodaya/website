@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 09"
 draft = false
-date = "2015-07-23"
+date = "2015-07-09"
 +++
 
 _sabda jnana anupati vastu sunyo vikalpah_
