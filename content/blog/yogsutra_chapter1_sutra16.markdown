@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 16"
 draft = false
-date = "2015-07-30"
+date = "2016-07-30"
 +++
 
 _tat param purusha khyateh guna vaitrshnyam_

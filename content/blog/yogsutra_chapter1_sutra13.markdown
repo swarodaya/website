@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 13"
 draft = false
-date = "2015-07-13"
+date = "2016-07-13"
 +++
 
 _Tatra sthitau yatnah abhyasa_

@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 12 to 16"
 draft = false
-date = "2015-08-16"
+date = "2016-08-16"
 +++
 
 Abhi tak ke sutron me hamne jana ke, chitt ki vritiyan ko rokan se, Yog ghatit hota hai. Vrittiyan woh hoti hai jo maan ko vartamaan mein, jeene nahi deti, aur maan ko, bhoot ya bhavishya ke vicharo mein ulja dati hain. Dukh-dayak, ya na dukhdayak, Vrittiyuan, panch karano se udbahv hoti hai - Pramana, viparya, vikalpa, nindra aur smruti.

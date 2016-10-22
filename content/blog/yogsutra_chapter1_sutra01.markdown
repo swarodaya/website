@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 01"
 draft = false
-date = "2015-07-01"
+date = "2016-07-01"
 +++
 
 Before we start, I would want to thank -

@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 02"
 draft = false
-date = "2015-07-02"
+date = "2016-07-02"
 +++
 
 _Yog Chitta Vritti Nirodah_

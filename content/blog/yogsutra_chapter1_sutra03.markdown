@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 03"
 draft = false
-date = "2015-07-03"
+date = "2016-07-03"
 +++
 
 _Tada drashta Swaroope Avasthanam_

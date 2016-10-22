@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 12"
 draft = false
-date = "2015-07-12"
+date = "2016-07-12"
 +++
 
 _abhyasa vairagyabhyam tat nirodhah_

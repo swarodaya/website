@@ -1,7 +1,7 @@
 +++
 title = "Yogsutra: Chapter 1 Sutra 10"
 draft = false
-date = "2015-07-10"
+date = "2016-07-10"
 +++
 
 _abhava pratyaya alambana vritti nidra_
