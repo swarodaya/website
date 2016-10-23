@@ -83,7 +83,7 @@ googleAnalytics = ""
 
     [[params.testimonials.list]]
         modalID = 3
-        title = "Mr. Tushar Deep Singh<br/>Restauranter, Spain"
+        title = "Mr. Tushar Deep Singh<br/>Restauranter, Spain<br/>&quot;Seema ji or Seema Maa of Swaryog has played her role at her bestest to teach the one who has came to her class. This is one of the finest learning platform for making right decision in life and knowing our ownself more deeply.&quot;"
         img = "tushardeep.jpg"
         description = "Restauranter, Spain"
 
