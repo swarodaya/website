@@ -1,2 +1,0 @@
-# website
-the swarodaya website
