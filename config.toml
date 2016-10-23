@@ -109,11 +109,25 @@ googleAnalytics = ""
     [params.aside]
         headline = "Residential Course<br/>on<br/>Tue&nbsp;14<sup>th</sup>, Wed&nbsp;15<sup>th</sup>, Thu&nbsp;16<sup>th</sup>, Fri&nbsp;17<sup>th</sup><br/>of<br/>February, 2017"
         text = "at<br/>[The Lalit Laxmi Vilas Palace, Udaipur](http://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/)"
+				listheadline = "Course Schedule"
 
-    # Aside section
-    [params.signup]
-        headline = "3- Or better yet, use Mayan EDMS on the cloud!"
-        text = "Sign up for the service announcement mailing list."
+        [[params.aside.list]]
+            title = "**Day 1**<br/>_Introduction_"
+            text = "<ul> <li>Swar Yog: It's roots and practical implications in life (theory).</li> <li>Prana: The different types of Pranas and their functions (theory).</li> <li>Recognition of the Nadis (practical).</li> <li>Understanding of the three Nadis (Ida, Pingala, and Susuhmana) and their associations with the working of human mind (theory).</li> <li>Nadi shoddan (theory and practical).</li> <li>Easy Methods for activation of Nadis (practical).</li> <li>Fundamental understanding of Panch Tatva and their significance in SwarYog (theory).</li> <li>Element experience (practical).</li> </ul>"
+
+
+        [[params.aside.list]]
+            title = "**Day 2**<br/>_Usage_"
+            text = "<ul> <li>Methods to Change of elements (practical).</li> <li>Understanding and usage of Gross and Subtle body cycles (theory and practical).</li> <li>Nimitam: The science of Omens (theory).</li> <li>Yog Nindra: Understanding and benefits (theory and practical).</li> <li>Usage of SwarYog: (theory and practical).</li> <li>Element experience (practical).</li> </ul>"
+
+
+        [[params.aside.list]]
+            title = "**Day 3**<br/>_Fine Tuning_"
+            text = "<ul> <li>Swar Mandal: Introduction and Usage (theory and practical).</li> <li>Swar Daily Log: Introduction and usage (theory and practical).</li> <li>Swar Prashna: Introduction and usage (theory and practical).</li> <li>Element experience (practical).</li> </ul>"
+
+        [[params.aside.list]]
+            title = "**Day 4**<br/>_Advanced Topics_"
+            text = "<ul> <li>Advance techniques</li> <li>Doubt clarification</li> <li>Question and Answer</li> <li>Course Wrapup</li> </ul>"
 
 		# Acharya section
     [params.acharya]
