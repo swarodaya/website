@@ -1,4 +1,5 @@
 baseurl = "https://swarodaya.github.io/website"
+#baseurl = "http://localhost:1313/website"
 publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - the way of the breath"
@@ -24,6 +25,7 @@ googleAnalytics = ""
         brand = "Home"
 
         [params.navigation.links]
+            intro  = "Intro"
             benefits  = "Benefits"
             course   = "Course"
             testimonials  = "Testimonials"
@@ -38,8 +40,12 @@ googleAnalytics = ""
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
         slogan     = "Swarodaya<br/>The Way of the Breath"
-        subtitle   = "&quot;The one who understands one's breath and its subtle elements, has known the Vedas&quot; -&nbsp;Shrimad Bhagwat.<br/><br/>Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that with that knowledge helps you to create abundance at all levels. Swarodaya Shastra, an authorative text on this subject is written as a conversation between Lord Shiva and his consort, Parvati.<br/><br/>Swar Shastra states that there are three main Nadis in the human body : The Chandra Or the Ida Nadi, The Surya Or the Pingala Nadi, and The Shunya Or the Sushumna Nadi. These Nadis operate alternately for certain duration of time in every hour. There are five Tatwas in the breath flow in every Nadi. The flow of the five Tatwas could be understood and recognised through several ways. Every Tatwa has a specific effect on our moods, behaviour and temprament.<br/><br/>A fine understanding and deep knowledge of three Nadis and the five Tatwas in every breath is the science of Swaryog. Swarodaya brings to you this ancient and sacred knowledge in the most lucid and easy to understand and practical methods, for a harmonious and happy life."
+        subtitle   = "&quot;The one who understands one's breath and its subtle elements, has known the Vedas&quot; -&nbsp;Shrimad Bhagwat."
 
+		# Intro section
+    [params.intro]
+        headline = "Introduction"
+        text   = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that with that knowledge helps you to create abundance at all levels. Swarodaya Shastra, an authorative text on this subject is written as a conversation between Lord Shiva and his consort, Parvati.<br/><br/>Swar Shastra states that there are three main Nadis in the human body : The Chandra Or the Ida Nadi, The Surya Or the Pingala Nadi, and The Shunya Or the Sushumna Nadi. These Nadis operate alternately for certain duration of time in every hour. There are five Tatwas in the breath flow in every Nadi. The flow of the five Tatwas could be understood and recognised through several ways. Every Tatwa has a specific effect on our moods, behaviour and temprament.<br/><br/>A fine understanding and deep knowledge of three Nadis and the five Tatwas in every breath is the science of Swaryog. Swarodaya brings to you this ancient and sacred knowledge in the most lucid and easy to understand and practical methods, for a harmonious and happy life."
 
     # Benefits section
     [params.benefits]
