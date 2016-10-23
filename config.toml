@@ -112,22 +112,22 @@ googleAnalytics = ""
 				listheadline = "Course Schedule"
 
         [[params.aside.list]]
-            title = "**Day 1**<br/>_Introduction_"
-            text = "<ul> <li>Swar Yog: It's roots and practical implications in life (theory).</li> <li>Prana: The different types of Pranas and their functions (theory).</li> <li>Recognition of the Nadis (practical).</li> <li>Understanding of the three Nadis (Ida, Pingala, and Susuhmana) and their associations with the working of human mind (theory).</li> <li>Nadi shoddan (theory and practical).</li> <li>Easy Methods for activation of Nadis (practical).</li> <li>Fundamental understanding of Panch Tatva and their significance in SwarYog (theory).</li> <li>Element experience (practical).</li> </ul>"
+            title = "**Day 1**<br/>_Nadis_"
+            text = "<ul> <li>Introduction to the Swar Yog.</li> <li>Understanding of the three Nadis (Ida, Pingala, and Susuhmana).</li> <li>Easy Methods for activation of Nadis.</li>  <li>Nadi meditation.</li> </ul>"
 
 
         [[params.aside.list]]
-            title = "**Day 2**<br/>_Usage_"
-            text = "<ul> <li>Methods to Change of elements (practical).</li> <li>Understanding and usage of Gross and Subtle body cycles (theory and practical).</li> <li>Nimitam: The science of Omens (theory).</li> <li>Yog Nindra: Understanding and benefits (theory and practical).</li> <li>Usage of SwarYog: (theory and practical).</li> <li>Element experience (practical).</li> </ul>"
+            title = "**Day 2**<br/>_Tatwas_"
+            text = "<ul> <li>Introduction to the five Tatwas (space, air, fire, water, and earth).</li> <li>Recognition of the five Tatwas.</li> <li>Usage of the five Tatwas.</li> <li>Easy methods for activation of Tatwas.</li> <li>Tatwa meditation.</li> </ul>"
 
 
         [[params.aside.list]]
             title = "**Day 3**<br/>_Fine Tuning_"
-            text = "<ul> <li>Swar Mandal: Introduction and Usage (theory and practical).</li> <li>Swar Daily Log: Introduction and usage (theory and practical).</li> <li>Swar Prashna: Introduction and usage (theory and practical).</li> <li>Element experience (practical).</li> </ul>"
+            text = "<ul> <li>Introduction to the Swar Saptang.</li> <li>Usage of the Swar Saptang.</li> <li>Introduction to the Swar log.</li> <li>Usage of the Swar log.</li> <li>Tatwa experience in the real world (site visit).</li> </ul>"
 
         [[params.aside.list]]
-            title = "**Day 4**<br/>_Advanced Topics_"
-            text = "<ul> <li>Advance techniques</li> <li>Doubt clarification</li> <li>Question and Answer</li> <li>Course Wrapup</li> </ul>"
+            title = "**Day 4**<br/>_Advance Level_"
+            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Question and Answer, and clarification of doubts.</li> <li>Forty Five Devtas of the Vastu Purush Mandal.</li> <li>Course Wrapup</li> </ul>"
 
 		# Acharya section
     [params.acharya]
