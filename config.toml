@@ -21,7 +21,7 @@ googleAnalytics = ""
 
     # Navigation
     [params.navigation]
-        brand = "Home"
+        brand = "Swarodaya"
 
         [params.navigation.links]
             intro     = "Intro"
@@ -40,7 +40,7 @@ googleAnalytics = ""
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
         slogan     = "Swarodaya<br/>The Way of the Breath"
-        subtitle   = "&quot;The one who understands one's breath and its subtle elements, has known the Vedas&quot; -&nbsp;Shrimad Bhagwat."
+        subtitle   = "&quot;The one who understands one's breath and its subtle elements, has known the Vedas&quot;<br/>-&nbsp;Shrimad Bhagwat."
 
 		# Intro section
     [params.intro]
