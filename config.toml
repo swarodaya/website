@@ -107,7 +107,7 @@ googleAnalytics = ""
 
     # Aside section
     [params.aside]
-        headline = "Residential Course<br/>on<br/>Tue&nbsp;14<sup>th</sup>, Wed&nbsp;15<sup>th</sup>, Thu&nbsp;16<sup>th</sup>, Fri&nbsp;17<sup>th</sup><br/>of<br/>February, 2017"
+        headline = "Residential Course<hr/>14, 15, 16, 17 February, 2017"
         text = "at<br/>[The Lalit Laxmi Vilas Palace, Udaipur](http://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/)"
 				listheadline = "Course Schedule"
 
