@@ -1,5 +1,4 @@
-#baseurl = "./"
-baseurl = "/website"
+baseurl = "/"
 publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - the way of the breath"
