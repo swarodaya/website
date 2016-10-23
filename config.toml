@@ -113,21 +113,21 @@ googleAnalytics = ""
 
         [[params.aside.list]]
             title = "**Day 1**<br/>_Nadis_"
-            text = "<ul> <li>Introduction to the Swar Yog.</li> <li>Understanding of the three Nadis (Ida, Pingala, and Susuhmana).</li> <li>Easy Methods for activation of Nadis.</li>  <li>Nadi meditation.</li> </ul>"
+            text = "<ul> <li>Introduction to the Swar Yog.</li> <li>Understanding, usage, and activation of the three Nadis (Ida, Pingala, and Susuhmana).</li> <li>Nadi meditation.</li> </ul>"
 
 
         [[params.aside.list]]
             title = "**Day 2**<br/>_Tatwas_"
-            text = "<ul> <li>Introduction to the five Tatwas (space, air, fire, water, and earth).</li> <li>Recognition of the five Tatwas.</li> <li>Usage of the five Tatwas.</li> <li>Easy methods for activation of Tatwas.</li> <li>Tatwa meditation.</li> </ul>"
+            text = "<ul> <li>Introduction to the five Tatwas (space, air, fire, water, and earth).</li> <li>Understanding, usage, and activation of the five Tatwas.</li> <li>Tatwa meditation.</li> </ul>"
 
 
         [[params.aside.list]]
-            title = "**Day 3**<br/>_Fine Tuning_"
-            text = "<ul> <li>Introduction to the Swar Saptang.</li> <li>Usage of the Swar Saptang.</li> <li>Introduction to the Swar log.</li> <li>Usage of the Swar log.</li> <li>Tatwa experience in the real world (site visit).</li> </ul>"
+            title = "**Day 3**<br/>_Practicals_"
+            text = "<ul> <li>Introduction and usage of the Swar Saptang.</li> <li>Introduction and usage of the Swar log.</li> <li>Tatwa experience in the real world (site visit).</li> </ul>"
 
         [[params.aside.list]]
-            title = "**Day 4**<br/>_Advance Level_"
-            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Question and Answer, and clarification of doubts.</li> <li>Forty Five Devtas of the Vastu Purush Mandal.</li> <li>Course Wrapup</li> </ul>"
+            title = "**Day 4**<br/>_Advanced_"
+            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Forty Five Devtas of the Vastu Purush Mandal.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
 
 		# Acharya section
     [params.acharya]
