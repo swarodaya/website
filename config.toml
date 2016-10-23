@@ -1,4 +1,4 @@
-baseurl = "http://swarodaya.github.io/website"
+baseurl = "https://swarodaya.github.io/website"
 publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - the way of the breath"
