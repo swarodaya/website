@@ -66,7 +66,7 @@ googleAnalytics = ""
         buttonText = "Close"
 
     [params.testimonials]
-        headline = "Here's what Swaryogis have to say about the experience"
+        headline = "Testimonials"
 
     # Features section
     [[params.testimonials.list]]
@@ -143,11 +143,11 @@ googleAnalytics = ""
 
         [[params.contact.list]]
             icon = "fa-envelope"
-            text = "[Email](mailto:info@swarodaya.com)"
+            text = "[info@swarodaya.com](mailto:info@swarodaya.com?subject=General Inquiry)"
 
         [[params.contact.list]]
             icon = "fa-facebook"
-            text = "[Facebook](https://www.facebook.com/swarodaya/)"
+            text = "[https://www.facebook.com/swarodaya/](https://www.facebook.com/swarodaya/)"
 
         [[params.contact.list]]
             icon = "fa-phone"

@@ -4,11 +4,12 @@
 				<h2>{{ with .Site.Params.aside.headline | markdownify }}{{ . }}{{ end }}</h2>
 				<p>{{ with .Site.Params.aside.text | markdownify }}{{ . }}{{ end }}</p>
 						{{ partial "prices.html" . }}
+						<h3>To enrol, write to us at <a href="mailto:info@swarodaya.com?subject=Enrol Feb 2017">info@swarodaya.com</a> with your name, address, and phone.</h3>
     </div>
 		<div class="container">
 				<div class="row">
-						<h2 class="section-heading text-center">{{ with .Site.Params.aside.listheadline }}{{ . }}{{ end }}</h2>
 						<hr class="primary">
+						<h2 class="section-heading text-center">{{ with .Site.Params.aside.listheadline }}{{ . }}{{ end }}</h2>
 						{{ range .Site.Params.aside.list }}
 						<div class="col-lg-3 col-md-12 text-center">
 								<div class="service-box" style="min-height: 190px;">
