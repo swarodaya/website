@@ -15,8 +15,10 @@
                 <div class="service-box" style="min-height: 190px;">
                     <i class="fa fa-4x {{ .icon }} text-primary"></i>
                     <h3>{{ .title }}</h3>
-                    <p class="text-muted">{{ .description }}</p>
-										<p class="text-muted">{{ .text | markdownify }}</p>
+										<div class="text-left">
+												<p class="text-muted">{{ .description }}</p>
+												<p class="text-muted">{{ .text | markdownify }}</p>
+										</div>
                 </div>
             </div>
             {{ end }}
