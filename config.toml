@@ -71,37 +71,37 @@ googleAnalytics = ""
     # Features section
     [[params.testimonials.list]]
         modalID = 1
-        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore"
+        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore<hr/>&quot;Swarodaya a must for all Mahavastu members and also for those involved in energy work as it helps fine tune the inner awareness.&quot;"
         img = "vijayalaxmi.jpg"
         description = "Bangalore, India"
 
     [[params.testimonials.list]]
         modalID = 2
-        title = "Prof. Dhanwant Singh<br/>Chancellor, Apex Professional University, Bangalore"
+        title = "Prof. Dhanwant Singh<br/>Chancellor, Apex Professional University, Bangalore<hr/>&quot;The way I breathe is the way I think. The way I think is the way I breathe.&quot;"
         img = "dhanvantsingh.jpg"
         description = "Chancellor, Apex Professional University, Bangalore"
 
     [[params.testimonials.list]]
         modalID = 3
-        title = "Mr. Tushar Deep Singh<br/>Restauranter, Spain<br/>&quot;Seema ji or Seema Maa of Swaryog has played her role at her bestest to teach the one who has came to her class. This is one of the finest learning platform for making right decision in life and knowing our ownself more deeply.&quot;"
+        title = "Mr. Tushar Deep Singh<br/>Restauranter, Spain<hr/>&quot;Seema ji or Seema Maa of Swaryog has played her role at her bestest to teach the one who has came to her class. This is one of the finest learning platform for making right decision in life and knowing our ownself more deeply.&quot;"
         img = "tushardeep.jpg"
         description = "Restauranter, Spain"
 
     [[params.testimonials.list]]
         modalID = 4
-        title = "Ms. Himali Mahajan<br/>Principal Software Engineer<br/>Boston, USA"
+        title = "Ms. Himali Mahajan<br/>Principal Software Engineer<br/>Boston, USA<hr/>&quot;Seema Ji made this Swarodaya so easy to understand. Her dedication that each one of us understand is admirable. Feeling blessed to have Guru like her.&quot;"
         img = "himali.jpg"
         description = "Principal Software Engineer, Boston USA"
 
     [[params.testimonials.list]]
         modalID = 5
-        title = "Mr. Vinay Modi<br/>Director, PTEducation, Jaipur"
+        title = "Mr. Vinay Modi<br/>Director, PTEducation, Jaipur<hr/>&quot;Absolutely refreshing experience!!..Seema Karecha made it look simple with her divine presence&articulation..!! I appreciate her concern for every individual participant..!! Kudos...!!&quot;"
         img = "vinaymodi.jpg"
         description = "Director, PTEducation, Jaipur"
 
     [[params.testimonials.list]]
         modalID = 6
-        title = "Mr. Chidambara ST,<br/>Business Analyst, Bangalore "
+        title = "Mr. Chidambara ST,<br/>Business Analyst, Bangalore<hr/>&quot;Its been a wonderful especially relating your breath and experiencing by living in the moment. Also linking breath and understanding the elements, correlating with that was a true exercise to feel it.&quot;"
         img = "chidambaram.jpg"
         description = "Business Analyst, Bangalore"
 
