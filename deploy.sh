@@ -1,6 +1,5 @@
-rm -r public/*
-hugo
+hugo -d ../public/website
 git add -A
 git commit
 git push origin master
-git subtree push --prefix=public git@github.com:swarodaya/website.git gh-pages
+echo "Now go push the generated site!"
