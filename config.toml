@@ -26,7 +26,7 @@ googleAnalytics = ""
         [params.navigation.links]
             intro     = "Intro"
             benefits  = "Benefits"
-            course    = "Course"
+            enrol     = "Enrol"
             testimonials  = "Testimonials"
             acharya   = "Acharya"
             contact   = "Contact"
@@ -106,26 +106,26 @@ googleAnalytics = ""
         description = "Business Analyst, Bangalore"
 
     # Aside section
-    [params.aside]
-        headline = "Residential Course<hr/>14, 15, 16, 17 February, 2017"
+    [params.course]
+        headline = "Registrations open for<br/>Residential Course<hr/>14, 15, 16, 17 February, 2017"
         text = "at<br/>[The Lalit Laxmi Vilas Palace, Udaipur](http://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/)"
 				listheadline = "Course Schedule"
 
-        [[params.aside.list]]
+        [[params.course.list]]
             title = "**Day 1**<br/>_Nadis_"
             text = "<ul> <li>Introduction to the Swar Yog.</li> <li>Understanding, usage, and activation of the three Nadis (Ida, Pingala, and Susuhmana).</li> <li>Nadi meditation.</li> </ul>"
 
 
-        [[params.aside.list]]
+        [[params.course.list]]
             title = "**Day 2**<br/>_Tatwas_"
             text = "<ul> <li>Introduction to the five Tatwas (space, air, fire, water, and earth).</li> <li>Understanding, usage, and activation of the five Tatwas.</li> <li>Tatwa meditation.</li> </ul>"
 
 
-        [[params.aside.list]]
+        [[params.course.list]]
             title = "**Day 3**<br/>_Practicals_"
             text = "<ul> <li>Introduction and usage of the Swar Saptang.</li> <li>Introduction and usage of the Swar log.</li> <li>Tatwa experience in the real world (site visit).</li> </ul>"
 
-        [[params.aside.list]]
+        [[params.course.list]]
             title = "**Day 4**<br/>_Advanced_"
             text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Forty Five Devtas of the Vastu Purush Mandal.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
 
