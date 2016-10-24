@@ -1,9 +1,9 @@
-baseurl = "https://swarodaya.github.io/website"
+baseurl = "https://swarodaya.com"
 publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - the way of the breath"
 canonifyurls = false
-googleAnalytics = ""
+googleAnalytics = "UA-35880283-1"
 
 [params]
 
