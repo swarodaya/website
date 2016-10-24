@@ -16,7 +16,7 @@ googleAnalytics = ""
     description = "The Way of the Breath"
 
     # The path must be relative to the static folder
-    favicon = "favicon.ico"
+    favicon = "favicon.png"
 
 
     # Navigation
@@ -70,10 +70,10 @@ googleAnalytics = ""
 
     # Features section
     [[params.testimonials.list]]
-        modalID = 1
-        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore<hr/>&quot;Swarodaya a must for all Mahavastu members and also for those involved in energy work as it helps fine tune the inner awareness.&quot;"
-        img = "vijayalaxmi.jpg"
-        description = "Bangalore, India"
+        modalID = 7
+        title = "Dr. Muneesh Gupta,<br/>General and Laparoscopic Surgeon, Bhathinda<hr/>&quot;I had been looking for these details for the last almost 22 years. And I got those at Swarodaya.&quot;"
+        img = "dr_muneeshgupta.jpg"
+        description = "General and Laparoscopic Surgeon, Bhathinda"
 
     [[params.testimonials.list]]
         modalID = 2
@@ -84,13 +84,13 @@ googleAnalytics = ""
     [[params.testimonials.list]]
         modalID = 3
         title = "Mr. Tushar Deep Singh<br/>Restauranter, Spain<hr/>&quot;Seema ji or Seema Maa of Swaryog has played her role at her bestest to teach the one who has came to her class. This is one of the finest learning platform for making right decision in life and knowing our ownself more deeply.&quot;"
-        img = "tushardeep.jpg"
+        img = "tushardeepsingh.jpg"
         description = "Restauranter, Spain"
 
     [[params.testimonials.list]]
         modalID = 4
         title = "Ms. Himali Mahajan<br/>Principal Software Engineer<br/>Boston, USA<hr/>&quot;Seema Ji made this Swarodaya so easy to understand. Her dedication that each one of us understand is admirable. Feeling blessed to have Guru like her.&quot;"
-        img = "himali.jpg"
+        img = "himalimahajan.jpg"
         description = "Principal Software Engineer, Boston USA"
 
     [[params.testimonials.list]]
@@ -100,10 +100,64 @@ googleAnalytics = ""
         description = "Director, PTEducation, Jaipur"
 
     [[params.testimonials.list]]
+        modalID = 8
+        title = "Mr. Vineet Garg,<br/>CEO and Head of the MahaVastu Centre, Ludhiana<hr/>&quot;I Realised after doing this course it is necessary in every individual life.&quot;"
+        img = "vineetgarg.jpg"
+        description = "CEO and Head of the MahaVastu Centre, Ludhiana"
+
+    [[params.testimonials.list]]
+        modalID = 1
+        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore<hr/>&quot;Swarodaya a must for all Mahavastu members and also for those involved in energy work as it helps fine tune the inner awareness.&quot;"
+        img = "vijayalaxmibhushan.jpg"
+        description = "Bangalore, India"
+
+    [[params.testimonials.list]]
+        modalID = 9
+        title = "Mr. Abbhiesh Sharma,<br/>Entrepreneur, Goa<hr/>&quot;I have been using the basics of Swar Yog in business. I found it to be of great use in making business decisions profitable, and convincing the clients better!!!.&quot;"
+        img = "abhieshsharma.jpg"
+        description = "Entrepreneur, Goa"
+
+    [[params.testimonials.list]]
         modalID = 6
         title = "Mr. Chidambara ST,<br/>Business Analyst, Bangalore<hr/>&quot;Its been a wonderful especially relating your breath and experiencing by living in the moment. Also linking breath and understanding the elements, correlating with that was a true exercise to feel it.&quot;"
         img = "chidambaram.jpg"
         description = "Business Analyst, Bangalore"
+
+    [[params.testimonials.list]]
+        modalID = 10
+        title = "Ms. Arpita Jain,<br/>Interior Designer, Hyderabad<hr/>&quot;It's an amazing course...could feel the 5 tatvas in our so easily.&quot;"
+        img = "arpitajain.jpg"
+        description = "Interior Designer, Hyderabad"
+
+    [[params.testimonials.list]]
+        modalID = 11
+        title = "Mr. Deepak Swarn,<br/>Government Officer, Bhathinda<hr/>&quot;It is a must workshop to attend because the teacher herself is too pious n eager to pass on the information without holding anything back.&quot;"
+        img = "deepakswarn.jpg"
+        description = "Government Officer, Bhathinda"
+
+    [[params.testimonials.list]]
+        modalID = 12
+        title = "Dr. Malay Pathak,<br/>Jyotish and Mahavastu Sashtri, Kolkata<hr/>&quot;I am happy to understand and feel all three types of swar and change it as required... Element factor is so important to have an actual effect on desired result...&quot;"
+        img = "malaypathak.jpg"
+        description = "Jyotish and MahaVastu Sashtri, Kolkata"
+
+    [[params.testimonials.list]]
+        modalID = 13
+        title = "Ms. Nupur Gupta,<br/>Owner of Grapholipi, Delhi<hr/>&quot;She (Seemaji) simplified this art to such levels that even a 6-7 year old can learn n grow well.&quot;"
+        img = "nupurgupta.jpg"
+        description = "Owner of Grapholipi, Delhi"
+
+    [[params.testimonials.list]]
+        modalID = 14
+        title = "Mr. Pankit Goyal,<br/>Mahavastu Expert, Suratgarh<hr/>&quot;I know how to start the day with positive breath and how to initiate task with positive element, swaryog is making my life beautiful!&quot;"
+        img = "pankitgoyal.jpg"
+        description = "Mahavastu Expert, Suratgarh"
+
+    [[params.testimonials.list]]
+        modalID = 15
+        title = "Ms. Subhashini Sharma,<br/>Former Teacher, Delhi<hr/>&quot;Swaryog is a spiritual and enlightening experience. Everyone should learn and practice! Seemaji is an outstanding teacher!&quot;"
+        img = "subhashinisharma.jpg"
+        description = "Former Teacher, Delhi"
 
     # Aside section
     [params.course]
