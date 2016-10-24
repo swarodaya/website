@@ -161,6 +161,12 @@ googleAnalytics = "UA-35880283-1"
         img = "subhashinisharma.jpg"
         description = "Former Teacher, Delhi"
 
+    [[params.testimonials.list]]
+        modalID = 16
+        title = "Mr. Sachin Gupta,<br/>Student, New Delhi<hr/>&quot;Swaryog is all about your breath and with the help of this, we can transform our lives. Seemaji made it so simple and easy to learn.&quot;"
+        img = "sachingupta.jpg"
+        description = "Student, New Delhi"
+
     # Aside section
     [params.course]
         headline = "Registrations open for<br/>Residential Course<hr/>14, 15, 16, 17 February, 2017"
