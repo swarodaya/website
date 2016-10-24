@@ -1,0 +1,29 @@
+<section id="recentposts" class="bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.recentposts.headline }}{{ . }}{{ end }}</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+		<div class="container">
+			{{ range first 2 .Site.Pages }}
+					<article class="blog">
+						<h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+						<h4>{{ .Date.Format "Mon, Jan 2, 2006"}}</h4>
+						{{ .Summary }}
+						<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+					</article>
+			{{ end }}
+		</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <hr class="primary">
+								<h2 class="section-heading"><a href="/blog/">Or</a></h2>
+								<h2 class="section-heading"><a href="/blog/">Read older Blog Posts</a></h2>
+            </div>
+        </div>
+    </div>
+</section>
