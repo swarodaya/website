@@ -7,7 +7,7 @@ rm -r $trgt/{blog,css,img,js}
 read  -n 1 -p "Press key to continue"
 
 # build
-hugo -d ../public/website
+hugo -d ../public
 
 # commit and push to origin
 git commit -a
