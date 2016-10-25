@@ -3,7 +3,7 @@ publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - the way of the breath"
 canonifyurls = false
-googleAnalytics = "UA-35880283-1"
+googleAnalytics = "UA-25128293-7"
 
 [params]
 
