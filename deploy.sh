@@ -1,5 +1,5 @@
 # clean up
-trgt="../public/website"
+trgt="../public"
 rm $trgt/{404.html,favicon.png,index.html,index.xml,logo.png,sitemap.xml}
 rm -r $trgt/{blog,css,img,js}
 
