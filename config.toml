@@ -14,6 +14,7 @@ googleAnalytics = "UA-25128293-7"
     # information about you and your website.
     name = "Swarodaya"
     description = "The Way of the Breath"
+		keywords = "Swaryog,Swaryoga,Swarayog,Swarayoga,meditation,breathing,breathe,breath"
 
     # The path must be relative to the static folder
     favicon = "favicon.png"
