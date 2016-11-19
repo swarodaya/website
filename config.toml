@@ -109,10 +109,11 @@ googleAnalytics = "UA-25128293-7"
         description = "CEO and Head of the MahaVastu Centre, Ludhiana"
 
     [[params.testimonials.list]]
-        modalID = 1
-        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore<hr/>&quot;Swarodaya a must for all Mahavastu members and also for those involved in energy work as it helps fine tune the inner awareness.&quot;"
-        img = "vijayalaxmibhushan.jpg"
-        description = "Bangalore, India"
+        modalID = 6
+        title = "Mr. Chidambara ST,<br/>Business Analyst, Bangalore<hr/>&quot;Its been a wonderful especially relating your breath and experiencing by living in the moment. Also linking breath and understanding the elements, correlating with that was a true exercise to feel it.&quot;"
+        img = "chidambaram.jpg"
+        description = "Business Analyst, Bangalore"
+
 
     [[params.testimonials.list]]
         modalID = 9
@@ -121,10 +122,10 @@ googleAnalytics = "UA-25128293-7"
         description = "Entrepreneur, Goa"
 
     [[params.testimonials.list]]
-        modalID = 6
-        title = "Mr. Chidambara ST,<br/>Business Analyst, Bangalore<hr/>&quot;Its been a wonderful especially relating your breath and experiencing by living in the moment. Also linking breath and understanding the elements, correlating with that was a true exercise to feel it.&quot;"
-        img = "chidambaram.jpg"
-        description = "Business Analyst, Bangalore"
+        modalID = 1
+        title = "Mrs. Vijaya Laxmi Bhushan<br/>Healer, Bangalore<hr/>&quot;Swarodaya a must for all Mahavastu members and also for those involved in energy work as it helps fine tune the inner awareness.&quot;"
+        img = "vijayalaxmibhushan.jpg"
+        description = "Bangalore, India"
 
     [[params.testimonials.list]]
         modalID = 10
@@ -169,16 +170,16 @@ googleAnalytics = "UA-25128293-7"
         description = "Student, New Delhi"
 
     [[params.testimonials.list]]
-        modalID = 17
-        title = "Mr. Vinod Purohit,<br/>Govt. Officer, Neemuch<hr/>&quot;स्वर योग ना सिर्फ बाह्यजगत अपितु अंतर्मन को जानने का सशक्त माध्यम हे और इस अनंत यात्रा को मार्गदर्शक गुरु सीमा जी करेचा ने अपने निर्देशन से और भी सरल बना दिया हे।।<br/>कोटिशः धन्यवाद सीमा जी।।।।&quot;"
-        img = "viinodpurohit.jpg"
-        description = "Govt. Officer, Neemuch"
-
-    [[params.testimonials.list]]
         modalID = 18
         title = "Mrs. Ddevya Sharma,<br/>Entrepreneur, Goa<hr/>&quot;A simple activity of Swar based meditation can open an entire world of possibilities for you.&quot;"
         img = "divya.jpg"
         description = "Entrepreneur, New Delhi"
+
+    [[params.testimonials.list]]
+        modalID = 17
+        title = "Mr. Vinod Purohit,<br/>Govt. Officer, Neemuch<hr/>&quot;स्वर योग ना सिर्फ बाह्यजगत अपितु अंतर्मन को जानने का सशक्त माध्यम हे और इस अनंत यात्रा को मार्गदर्शक गुरु सीमा जी करेचा ने अपने निर्देशन से और भी सरल बना दिया हे।।<br/>कोटिशः धन्यवाद सीमा जी।।।।&quot;"
+        img = "viinodpurohit.jpg"
+        description = "Govt. Officer, Neemuch"
 
     [[params.testimonials.list]]
         modalID = 19
