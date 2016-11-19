@@ -47,7 +47,7 @@ googleAnalytics = "UA-25128293-7"
 		# Intro section
     [params.intro]
         headline = "Introduction"
-        text   = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that with that knowledge helps you to create abundance at all levels. Swarodaya Shastra, an authorative text on this subject is written as a conversation between Lord Shiva and his consort, Parvati.<br/><br/>Swar Shastra states that there are three main Nadis in the human body : The Chandra Or the Ida Nadi, The Surya Or the Pingala Nadi, and The Shunya Or the Sushumna Nadi. These Nadis operate alternately for certain duration of time in every hour. There are five Tatwas in the breath flow in every Nadi. The flow of the five Tatwas could be understood and recognised through several ways. Every Tatwa has a specific effect on our moods, behaviour and temprament.<br/><br/>A fine understanding and deep knowledge of three Nadis and the five Tatwas in every breath is the science of Swaryog. Swarodaya brings to you this ancient and sacred knowledge in the most lucid and easy to understand and practical methods, for a harmonious and happy life."
+        text   = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that with that knowledge helps you to create abundance at all levels. Swarodaya Shastra, an authorative text on this subject is written as a conversation between Lord Shiva and his consort, Parvati.<br/><br/>Swar Shastra states that there are three main Nadis in the human body : The Chandra Or the Ida Nadi, The Surya Or the Pingala Nadi, and The Shunya Or the Sushumna Nadi. These Nadis operate alternately for certain duration of time in every hour. There are five Tatwas in the breath flow in every Nadi. The flow of the five Tatwas could be understood and recognised through several ways. Every Tatwa has a specific effect on our moods, behaviour and temperament.<br/><br/>A fine understanding and deep knowledge of three Nadis and the five Tatwas in every breath is the science of Swaryog. Swarodaya brings to you this ancient and sacred knowledge in the most lucid and easy to understand and practical methods, for a harmonious and happy life."
 
     # Benefits section
     [params.benefits]
@@ -61,7 +61,7 @@ googleAnalytics = "UA-25128293-7"
         [[params.benefits.list]]
             icon = "fa-university"
             title = "Professional"
-            text = "<ul><li>Aligning your actions as per the breath rhythm, will help you create the desired outcome of your efforts.<li>Your interactions with people will be influential and impactful, wherever and whenever they happen. It can be a meeting, an email, a message or a chat.You will become intuitive to take profitable decisions.<li>You will be capable of converting any difficult situation in to a win-win resolve with a calm and a confident mind. Your planning for an event, travel or any strategy will always result into successful outcomes.<li>You will be able to absorb, remember and reproduce whatever you study and will be able to give your best performance (whether it's an exam, court-room or an important business presentation)." 
+            text = "<ul><li>Aligning your actions as per the breath rhythm, will help you create the desired outcome of your efforts.<li>Your interactions with people will be influential and impactful, wherever and whenever they happen. It can be a meeting, an email, a message or a chat.You will become intuitive to take profitable decisions.<li>You will be capable of converting any difficult situation in to a win-win resolve with a calm and a confident mind. Your planning for an event, travel or any strategy will always result into successful outcomes.<li>You will be able to absorb, remember and reproduce whatever you study and will be able to give your best performance (whether it's an exam, court-room or an important business presentation)."
 
     # Feature modals
     [params.testimonials.modal]
@@ -167,6 +167,26 @@ googleAnalytics = "UA-25128293-7"
         title = "Mr. Sachin Gupta,<br/>Student, New Delhi<hr/>&quot;Swaryog is all about your breath and with the help of this, we can transform our lives. Seemaji made it so simple and easy to learn.&quot;"
         img = "sachingupta.jpg"
         description = "Student, New Delhi"
+
+    [[params.testimonials.list]]
+        modalID = 17
+        title = "Mr. Vinod Purohit,<br/>Govt. Officer, Neemuch<hr/>&quot;स्वर योग ना सिर्फ बाह्यजगत अपितु अंतर्मन को जानने का सशक्त माध्यम हे और इस अनंत यात्रा को मार्गदर्शक गुरु सीमा जी करेचा ने अपने निर्देशन से और भी सरल बना दिया हे।।<br/>कोटिशः धन्यवाद सीमा जी।।।।&quot;"
+        img = "viinodpurohit.jpg"
+        description = "Govt. Officer, Neemuch"
+
+    [[params.testimonials.list]]
+        modalID = 18
+        title = "Mrs. Ddevya Sharma,<br/>Entrepreneur, Goa<hr/>&quot;A simple activity of Swar based meditation can open an entire world of possibilities for you.&quot;"
+        img = "divya.jpg"
+        description = "Entrepreneur, New Delhi"
+
+    [[params.testimonials.list]]
+        modalID = 19
+        title = "Mrs. Shashi Sharma,<br/>New Delhi<hr/>&quot;We have been breating since the moment we were born, but never before did I think of how it can be controlled to change the life.&quot;"
+        img = "mrs_shashi.jpg"
+        description = "New Delhi"
+
+
 
     # Aside section
     [params.course]
