@@ -26,7 +26,7 @@ At times when a person has lost his individuality, the methods of Yog can help o
 Further on, Patanjali discusses these subtle aspects. When you read about it, you realise that you live with these aspects several times a day. And to overcome them, Patanjali addresses the reason behind the continuous recurrence of thoughts, and then guides us with the techniques to stay within one’s self.
 
 Gratitude to Guru Sakha. 🙏  
-Gratitude to you, the reader.🙏  
+Gratitude to you, the reader. 🙏  
 
 -- 
 

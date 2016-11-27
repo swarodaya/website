@@ -81,7 +81,7 @@ Memories igniting from songs, ghazals, movies, images, faces, and dialogues tend
 To come out of those past memories and the being able to establish in the self, becomes the focal point to move ahead and better in life. It becomes the “feedback” to inspire and rise high in life.
 
 Gratitude to Guru Sakha. 🙏  
-Gratitude to you, the reader.🙏  
+Gratitude to you, the reader. 🙏  
 
 --
 

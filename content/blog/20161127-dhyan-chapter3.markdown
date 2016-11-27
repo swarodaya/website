@@ -44,7 +44,7 @@ The subconscious is never steady in either of the three states. When in a state 
 By being an observer, you can experience these states of the subconscious. Or by recalling the experiences of the past, you can understand the three Gunas. Patanjali says, ”In higher state of Vairagya (dispassion), by maintaining a state of non-indulgence towards these situations, you shall be able to know the eternal that stands behind these. And that is your true form.
 
 Gratitude to Guru Sakha. 🙏  
-Gratitude to you, the reader.🙏  
+Gratitude to you, the reader. 🙏  
 
 --
 
