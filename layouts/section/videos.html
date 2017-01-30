@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+
+        {{ partial "nav-affix.html" . }}
+		
+        <section id="blog">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2 class="section-heading">{{ .Title }}</h2>
+                        <hr class="primary">
+                        <p>{{ .Description | markdownify }}</p>
+                    </div>
+				</div>
+				<br/><br/>
+
+				{{ range .Site.Params.videos.list }}
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3 text-center"></div>
+						<div class="col-lg-6 block text-center">
+							<h3 class="section-heading">{{ .title }}</h3>
+							<object style="width:100%; height:100%; height:300px; float: none; clear: both; margin: 2px auto;" data={{ .video }}>
+							</object>
+							<hr class="primary">
+							<br/>
+						</div>
+						<div class="col-lg-3 text-center"></div>
+					</div>
+				</div>
+				{{ end }}
+            </div>
+        </section>
+    </body>
+    {{ partial "footer.html" . }}
+    {{ partial "js.html" . }}
+</html>

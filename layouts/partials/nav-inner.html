@@ -29,15 +29,15 @@
             <li>
                 <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#testimonials">{{ with .Site.Params.navigation.links.testimonials }}{{ . }}{{ end }}</a>
             </li>
-            <li>
-                <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#contact">{{ with .Site.Params.navigation.links.contact }}{{ . }}{{ end }}</a>
-            </li>
-
             {{ range .Site.Menus.main }}
                 <li>
                     <a href="{{ .URL }}">{{ .Name }}</a>
                 </li>
             {{ end }}
+            <li>
+                <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#contact">{{ with .Site.Params.navigation.links.contact }}{{ . }}{{ end }}</a>
+            </li>
+
         </ul>
     </div>
     {{ "<!-- /.navbar-collapse -->" | safeHTML }}
