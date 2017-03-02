@@ -26,9 +26,6 @@
             <li>
                 <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#enrol">{{ with .Site.Params.navigation.links.enrol }}{{ . }}{{ end }}</a>
             </li>
-            <li>
-                <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#testimonials">{{ with .Site.Params.navigation.links.testimonials }}{{ . }}{{ end }}</a>
-            </li>
             {{ range .Site.Menus.main }}
                 <li>
                     <a href="{{ .URL }}">{{ .Name }}</a>

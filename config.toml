@@ -39,6 +39,11 @@ googleAnalytics = "UA-25128293-7"
         url = "/videos/"
 
     [[menu.main]]
+        name = "Testimonials"
+        identifier = "testimonials"
+        url = "/testimonials/"
+
+    [[menu.main]]
         name = "Blog"
         identifier = "blog"
         url = "/blog/"
@@ -149,7 +154,6 @@ googleAnalytics = "UA-25128293-7"
         img = "chidambaram.jpg"
         description = "Business Analyst, Bangalore"
 
-
     [[params.testimonials.list]]
         modalID = 9
         title = "Mr. Abbhiesh Sharma,<br/>Entrepreneur, Goa<hr/>&quot;I have been using the basics of Swar Yog in business. I found it to be of great use in making business decisions profitable, and convincing the clients better!!!.&quot;"
@@ -223,10 +227,9 @@ googleAnalytics = "UA-25128293-7"
         description = "New Delhi"
 
 
-
     # Aside section
     [params.course]
-        headline = "Registrations open for<br/>Residential Course<hr/>14, 15, 16, 17 February, 2017"
+        headline = "Registrations open for<br/>Residential Course<hr/>September, 2017<br/>Dates coming soon!"
         text = "at<br/>[The Lalit Laxmi Vilas Palace, Udaipur](http://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/)"
 				listheadline = "Course Schedule"
 
@@ -246,7 +249,7 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.course.list]]
             title = "**Day 4**<br/>_Advanced_"
-            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Forty Five Devtas of the Vastu Purush Mandal.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
+            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Patanjali Yog Sutra.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
 
 		# Acharya section
     [params.acharya]
