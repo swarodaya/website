@@ -66,12 +66,12 @@ googleAnalytics = "UA-25128293-7"
 		video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
 
         [[params.videos.list]]
-            title = "Introduction to Swaryog"
-			video = "https://www.youtube.com/embed/6rN7s8BE9rI?autoplay=0"
-
-        [[params.videos.list]]
             title = "Swaryog, Feb 2017, Udaipur. A recap..."
 			video = "https://www.youtube.com/embed/U98nDu6tjTs?autoplay=0"
+
+        [[params.videos.list]]
+            title = "Introduction to Swaryog"
+			video = "https://www.youtube.com/embed/6rN7s8BE9rI?autoplay=0"
 
         [[params.videos.list]]
             title = "Purpose of Life"
