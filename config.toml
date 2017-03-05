@@ -252,8 +252,8 @@ googleAnalytics = "UA-25128293-7"
             text = "<ul> <li>Introduction and usage of the Swar Saptang.</li> <li>Introduction and usage of the Swar log.</li> <li>Tatwa experience in the real world (site visit).</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 4**<br/>_Advanced_"
-            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Patanjali Yog Sutra.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
+            title = "**Day 4**<br/>_Advanced Swaryog_"
+            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Meditations.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
 
 		# Acharya section
     [params.acharya]
