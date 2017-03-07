@@ -240,14 +240,14 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.course.list]]
             title = "**Day 1**<br/>_Nadis_"
-            text = "<ul> <li>Swar Yog: An Introduction</li> <li>Chakras and Nadis: Evolution and Interplay</li> <li>Three Nadis In-Depth: Ida, Pingala, Sushumna </li> <li>Nadis: Practical Usage and Activities</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity</li> <li>Nadis and Success</li> <li>Nadis and Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Nadis and Health</li> <li>Nadis and Making Life Decisions</li> <li>Meditation: SUSHUMNA</li> </ul>"
+            text = "<ul> <li>Swar Yog: An Introduction</li> <li>Three Nadis In-Depth: Ida, Pingala, Sushumna </li> <li>Nadis: Practical Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity</li> <li>Nadis and Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Nadis and Health</li> <li>Nadis and Making Life Decisions</li> <li>Meditation: SUSHUMNA</li> </ul>"
 
         [[params.course.list]]
             title = "**Day 2**<br/>_Tatwas_"
             text = "<ul> <li>Tatwas: An Introduction</li> <li>Sankhaya Darshan and Tatwa Chintamani</li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Tatwa Gunas: Rajas, Satwa, Tamas</li> <li>Ashtang Tatwa Vigyan: 8 ways to recognize Tatwas</li> <li>Meditation: EARTH TATWA</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Questions of Life</li> <li>Tatwa And Prediction</li> <li>Meditation: WATER TATWA</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 3**<br/>_Practicals_"
+            title = "**Day 3**<br/>_Implementation_"
             text = "<ul> <li>Swar Saptang: How to Plan Day to Day activities</li> <li>Swar Log: Daily Swar Observation</li> <li>Meditation: FIRE TATWA</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Day-to-Day Activities</li> <li>Panch Pran Vayus</li> <li>Meditation: AIR TATWA</li> <li>Site Visit: Swar Experience</li> </ul>"
 
         [[params.course.list]]
