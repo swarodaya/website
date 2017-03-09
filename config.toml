@@ -66,6 +66,10 @@ googleAnalytics = "UA-25128293-7"
 		video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
 
         [[params.videos.list]]
+            title = "The Element Of Air"
+			video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
+
+        [[params.videos.list]]
             title = "Swaryog, Feb 2017, Udaipur. A recap..."
 			video = "https://www.youtube.com/embed/U98nDu6tjTs?autoplay=0"
 
