@@ -20,6 +20,7 @@ fi
 hugo -d ../public
 
 # commit and push to origin
+git add -A
 git commit -a
 git push origin master
 
