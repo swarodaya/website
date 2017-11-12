@@ -5,7 +5,7 @@ if (( $? )); then
 	echo "Error while cleaning up files" >&2
 	exit 1
 else
-	echo "Files cleand up"
+	echo "Files cleaned up"
 fi
 
 rm -r $trgt/{blog,videos,css,img,js}
@@ -13,7 +13,7 @@ if (( $? )); then
 	echo "Error while cleaning up folders" >&2
 	exit 1
 else
-	echo "Folders cleand up"
+	echo "Folders cleaned up"
 fi
 
 # build

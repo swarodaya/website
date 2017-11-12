@@ -236,9 +236,9 @@ googleAnalytics = "UA-25128293-7"
 
     # Aside section
     [params.course]
-        headline = "Registrations Open For<br/>Residential Course<hr/>8, 9, 10, 11 September, 2017"
-        text = "at<br/>[The Lalit Laxmi Vilas Palace, Udaipur](http://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/)"
-				listheadline = "Course Schedule"
+        headline = "Registrations will open soon for<br/>Residential Course<hr/>2018 schedule to be announced"
+        text = "at an exciting location!"
+	listheadline = "Course Schedule"
 
         [[params.course.list]]
             title = "**Day 1**<br/>_Nadis_"
