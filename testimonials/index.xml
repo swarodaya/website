@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testimonials on Swarodaya - the way of the breath</title>
-    <link>http://swarodaya.com/testimonials/index.xml</link>
+    <link>https://swarodaya.com/testimonials/index.xml</link>
     <description>Recent content in Testimonials on Swarodaya - the way of the breath</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Mar 2016 11:48:13 +0530</lastBuildDate>
-    <atom:link href="http://swarodaya.com/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://swarodaya.com/testimonials/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Testimonials</title>
-      <link>http://swarodaya.com/testimonials/dummy/</link>
+      <link>https://swarodaya.com/testimonials/dummy/</link>
       <pubDate>Wed, 02 Mar 2016 11:48:13 +0530</pubDate>
       
-      <guid>http://swarodaya.com/testimonials/dummy/</guid>
+      <guid>https://swarodaya.com/testimonials/dummy/</guid>
       <description></description>
     </item>
     
