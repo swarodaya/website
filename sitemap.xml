@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://swarodaya.com/blog/20171103-bhrisha/</loc>
@@ -288,8 +289,18 @@
   </url>
   
   <url>
+    <loc>https://swarodaya.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://swarodaya.com/</loc>
     <lastmod>2017-11-03T11:41:31+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://swarodaya.com/tags/</loc>
     <priority>0</priority>
   </url>
   
