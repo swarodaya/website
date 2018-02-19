@@ -1,7 +1,7 @@
 baseurl = "https://swarodaya.com"
 publishdir = "public"
 languageCode = "en-us"
-title = "Swarodaya - the way of the breath"
+title = "Swarodaya - Maximize Your Potential"
 canonifyurls = false
 googleAnalytics = "UA-25128293-7"
 
@@ -13,8 +13,8 @@ googleAnalytics = "UA-25128293-7"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Swarodaya"
-    description = "The Way of the Breath"
-		keywords = "Swaryog,Swaryoga,Swarayog,Swarayoga,meditation,breathing,breathe,breath"
+    description = "Maximize Your Potential"
+		keywords = "Swaryog,Swaryoga,Swarayog,Swarayoga,meditation,breathing,breathe,breath,patanjali,yogsutra"
 
     # The path must be relative to the static folder
     favicon = "favicon.png"
@@ -50,13 +50,13 @@ googleAnalytics = "UA-25128293-7"
     # Hero section
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-        slogan     = "Swarodaya<br/>The Way of the Breath"
-        subtitle   = "&quot;The one who understands one's breath and its subtle elements, has known the Vedas&quot;<br/>-&nbsp;Shrimad Bhagwat."
+        slogan     = "Swarodaya<br/>Maximize Your Potential"
+        subtitle   = ""
 
 		# Intro section
     [params.intro]
         headline = "Introduction"
-        text   = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that with that knowledge helps you to create abundance at all levels. Swarodaya Shastra, an authorative text on this subject is written as a conversation between Lord Shiva and his consort, Parvati.<br/><br/>Swar Shastra states that there are three main Nadis in the human body : The Chandra Or the Ida Nadi, The Surya Or the Pingala Nadi, and The Shunya Or the Sushumna Nadi. These Nadis operate alternately for certain duration of time in every hour. There are five Tatwas in the breath flow in every Nadi. The flow of the five Tatwas could be understood and recognised through several ways. Every Tatwa has a specific effect on our moods, behaviour and temperament.<br/><br/>A fine understanding and deep knowledge of three Nadis and the five Tatwas in every breath is the science of Swaryog. Swarodaya brings to you this ancient and sacred knowledge in the most lucid and easy to understand and practical methods, for a harmonious and happy life."
+        text   = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that knowledge helps you to create abundance at all levels.<br/><br/>The Yoga Sutras of Patañjali are ancient Indian text consisting of 196 sutras, divided into four chapters. The Yoga Sutras were compiled prior to 400 BC by Sage Patanjali, summarizing yoga from older traditions. The Yog Sutras present, in a condensed form, the vast essence of life and methodically shares the ways of natural living. The heart of these teachings is the eightfold path of yoga - also known as the Ashtanga Yog.  These are also called the eight limbs of Patanjali, and they describe the practical steps to follow in order to be in a state of eternal flow, known as Kaivalya.<br/><br/>Swarodaya - in its training programmes, presents the knowledge of these sacred and deep subjects in the most lucid, easy to understand and practical manner that helps a modern man lead a fulfilling life filled with harmony and prosperity, guided by ancient wisdom."
 
     # Videos section
     [params.videos]
@@ -236,25 +236,25 @@ googleAnalytics = "UA-25128293-7"
 
     # Aside section
     [params.course]
-        headline = "Registrations will open soon for<br/>Residential Course<hr/>2018 schedule to be announced"
+        headline = "Registrations will open soon for the next<br/>Residential Course<hr/>September 2018 schedule to be announced"
         text = "at an exciting location!"
 	listheadline = "Course Schedule"
 
         [[params.course.list]]
-            title = "**Day 1**<br/>_Nadis_"
-            text = "<ul> <li>Swar Yog: An Introduction</li> <li>Three Nadis In-Depth: Ida, Pingala, Sushumna </li> <li>Nadis: Practical Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity</li> <li>Nadis and Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Nadis and Health</li> <li>Nadis and Making Life Decisions</li> <li>Meditation: SUSHUMNA</li> </ul>"
+            title = "**Day 1**"
+            text = "<ul> <li>Swar Yog: An Introduction</li> <li>Chakras: An understanding</li> <li>Three Nadis In-Depth: Ida, Pingala, Sushumna</li> <li>Nadis: Practical Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity</li> <li>Nadis and Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Nadis and Health</li> <li>Nadis and Life Decisions</li> <li>Meditation</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 2**<br/>_Tatwas_"
-            text = "<ul> <li>Tatwas: An Introduction</li> <li>Sankhaya Darshan and Tatwa Chintamani</li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Tatwa Gunas: Rajas, Satwa, Tamas</li> <li>Ashtang Tatwa Vigyan: 8 ways to recognize Tatwas</li> <li>Meditation: EARTH TATWA</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Questions of Life</li> <li>Tatwa And Prediction</li> <li>Meditation: WATER TATWA</li> </ul>"
+            title = "**Day 2**"
+            text = "<ul> <li>Tatwas: An Introduction</li> <li>Tatwas: Evolution </li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Ashtang Tatwa Vigyan</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Questions of Life</li> <li>Tatwa And Prediction</li> <li>Meditation</li> <br/> <li>Patanjali Yog Sutras - Samadhi Pada</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 3**<br/>_Implementation_"
-            text = "<ul> <li>Swar Saptang: How to Plan Day to Day activities</li> <li>Swar Log: Daily Swar Observation</li> <li>Meditation: FIRE TATWA</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Day-to-Day Activities</li> <li>Panch Pran Vayus</li> <li>Meditation: AIR TATWA</li> <li>Site Visit: Swar Experience</li> </ul>"
+            title = "**Day 3**"
+            text = "<ul> <li>Swar Saptang</li> <li>Swar Log Book</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Dowsing</li> <li>Swar and Day-to-Day Activities</li> <li>Meditation</li> <br/> <li>Patanjali Yog Sutras - Sadhana Pada</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 4**<br/>_Advanced Swaryog_"
-            text = "<ul> <li>Tatwa Sthapna: The Sacred Advanced Meditation</li> <li>Graduation</li> <li>Shiv Swarodaya Shastra: The Ancient Text</li> <li>Chhaya Upasana</li> <li>Sharir Tatwa Vimarsh</li> <li>Swar and Mudra Vigyan</li> <li>Swar and Purpose of Life</li> <li>Meditation: SPACE TATWA</li> <li>Swar and Patanjali Yog Sutra</li> <li>Questions and Wrap-up</li> </ul>"
+            title = "**Day 4**"
+            text = "<ul> <li>The Sacred Advanced Meditation</li> <br/> <li>Patanjali Yog Sutras - Vibhuti Pada</li> <br/> <li>Patanjali Yog Sutras - Kaivalya Pada</li> </ul>"
 
 		# Acharya section
     [params.acharya]
@@ -267,7 +267,7 @@ googleAnalytics = "UA-25128293-7"
         batch_img2 = "201702udaipur.jpg"
         batch_title3 = "Batch of Feb, 2018<br/>Udaipur"
         batch_img3 = "201802udaipur.jpg"
-        text   = "Seema Karecha is a Swar Yog Practitioner.<br/><br/>Swar Yog, the Yogic discipline of breathe awareness that helps to elevate individual on spiritual as well as materialist levels.<br/><br/>Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature.<br/></br>As an explorer of timeless wisdom, she paved her spiritual journey through Yog sutras of Patanjali, Bhagwad Geeta and Mahabharata, Vastu Shastra by Shri Khushdeep Bansal, and Swar Yog by inspiration of accomplished gurus. In her training program, she has simplified the mystical practices of Swar Yog for common man to reap it's benefits for a better life."
+        text   = "Acharya Seema Karecha hails from a cultural background of artistic lineage, and she holds degrees in Philosophy, Psychology, and English literature.<br/><br/> As an explorer of timeless wisdom, she paved her spiritual journey of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Mahabharat under the guidance of accomplished gurus. In her training programs, she has simplified these mystical subjects for the modern man to reap its benefits for a better life."
 
 		# Recent posts section
     [params.recentposts]

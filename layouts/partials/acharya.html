@@ -10,13 +10,20 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-					<div class="col-lg-2"></div>
-					<div class="col-lg-4 col-md-12 text-left">
+					<div class="col-lg-1"></div>
+					<div class="col-lg-10 col-md-12 text-left">
 							<div class="service-box" style="min-height: 190px;">
 									<p>{{ with .Site.Params.acharya.text }}{{ . | markdownify }}{{ end }}</p>
 							</div>
 					</div>
-					<div class="col-lg-4 col-md-12 text-center">
+					<div class="col-lg-1"></div>
+        </div>
+    </div>
+    <br/>
+    <div class="container-fluid">
+        <div class="row">
+					<div class="col-lg-2"></div>
+					<div class="col-lg-8 col-md-12 text-center">
 							<div class="service-box" style="min-height: 190px;">
 									<img src="img/acharya/201802udaipur.jpg" class="img-responsive" alt="">
 									<h4>{{ with .Site.Params.acharya.batch_title3 }}{{ . | markdownify }}{{ end }}</h4>
