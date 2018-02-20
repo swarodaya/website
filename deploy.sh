@@ -3,7 +3,6 @@ trgt="../public"
 rm $trgt/{404.html,favicon.png,index.html,index.xml,logo.png,sitemap.xml}
 if (( $? )); then
 	echo "Error while cleaning up files" >&2
-	exit 1
 else
 	echo "Files cleaned up"
 fi
@@ -11,7 +10,6 @@ fi
 rm -r $trgt/{blog,videos,css,img,js}
 if (( $? )); then
 	echo "Error while cleaning up folders" >&2
-	exit 1
 else
 	echo "Folders cleaned up"
 fi
