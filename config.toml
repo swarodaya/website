@@ -26,8 +26,8 @@ googleAnalytics = "UA-25128293-7"
 
         [params.navigation.links]
             intro     = "Intro"
+            enrol     = "Residential Course"
             benefits  = "Benefits"
-            enrol     = "Enrol"
             acharya   = "Acharya"
             contact   = "Contact"
             recentposts   = "Recent"
@@ -56,6 +56,7 @@ googleAnalytics = "UA-25128293-7"
 		# Intro section
     [params.intro]
         headline = "Introduction"
+        bg = "bg-dark"
         text   = "Swarodaya, a vision of Acharya Seema Karecha, is aimed to help individuals transform life through the knowledge of occult science. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Numerology, under the guidance of accomplished gurus. She conducts training programs and provides services, where she uses the essence of these mystical sciences to bring happiness and prosperity to the life of a modern person."
 
     # Videos section
@@ -99,6 +100,7 @@ googleAnalytics = "UA-25128293-7"
     # Benefits section
     [params.benefits]
         headline = "Benefits"
+        bg  = "bg-dark"
 
         [[params.benefits.list]]
             icon = "fa-home"
@@ -236,29 +238,33 @@ googleAnalytics = "UA-25128293-7"
 
     # Aside section
     [params.course]
-        headline = "Registrations will open soon for the next<br/>Residential Course<hr/>September 2018 schedule to be announced"
-        text = "at an exciting location!"
-	listheadline = "Course Schedule"
+        headline = "Residential Course"
+        bg = "bg-light"
+        text = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that knowledge helps you to create abundance at all levels.<p/> The Yoga Sutras of Patañjali are ancient Indian text consisting of 196 sutras, divided into four chapters. The Yoga Sutras were compiled prior to 400 BC by Sage Patanjali, summarizing yoga from older traditions. The Yog Sutras present, in a condensed form, the vast essence of life and methodically shares the ways of purposful living. The heart of these teachings is the eightfold path of yoga - also known as the Ashtanga Yog. These are also called the eight limbs of Patanjali, and they describe the practical steps to follow in order to be in a state of eternal flow, known as Kaivalya.<p/> Swarodaya - in it’s training programmes, brings to you the combined knowledge of these two sacred and deep subjects in the most lucid, easy to understand and practical manner that helps you to lead a fulfilling life filled with harmony and prosperity."
+	listheadline = "Course Schedule - September 2018"
+	listheadline1 = "Venue and Date to be announced"
+	#listheadline2 = "Venue to be announced"
 
         [[params.course.list]]
-            title = "**Day 1**"
+            title = "Day 1"
             text = "<ul> <li>Swar Yog: An Introduction</li> <li>Chakras: An understanding</li> <li>Three Nadis In-Depth: Ida, Pingala, Sushumna</li> <li>Nadis: Practical Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity</li> <li>Nadis and Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Nadis and Health</li> <li>Nadis and Life Decisions</li> <li>Meditation</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 2**"
+            title = "Day 2"
             text = "<ul> <li>Tatwas: An Introduction</li> <li>Tatwas: Evolution </li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Ashtang Tatwa Vigyan</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Questions of Life</li> <li>Tatwa And Prediction</li> <li>Meditation</li> <br/> <li>Patanjali Yog Sutras - Samadhi Pada</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 3**"
+            title = "Day 3"
             text = "<ul> <li>Swar Saptang</li> <li>Swar Log Book</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Dowsing</li> <li>Swar and Day-to-Day Activities</li> <li>Meditation</li> <br/> <li>Patanjali Yog Sutras - Sadhana Pada</li> </ul>"
 
         [[params.course.list]]
-            title = "**Day 4**"
+            title = "Day 4"
             text = "<ul> <li>The Sacred Advanced Meditation</li> <br/> <li>Patanjali Yog Sutras - Vibhuti Pada</li> <br/> <li>Patanjali Yog Sutras - Kaivalya Pada</li> </ul>"
 
 		# Acharya section
     [params.acharya]
         headline = "Acharya Seema Karecha"
+        bg = "bg-light"
         title = "Batch of Sept, 2016<br/>Goa"
         img = "acharya.jpg"
         batch_title1 = "Batch of Sept, 2016<br/>Goa"
@@ -272,10 +278,12 @@ googleAnalytics = "UA-25128293-7"
 		# Recent posts section
     [params.recentposts]
         headline = "Checkout the Recent Blog Posts"
+        bg = "bg-dark"
 
     # Contact section
     [params.contact]
         headline = "Get In Touch!"
+        bg = "bg-light"
         description = ""
 
         [[params.contact.list]]
