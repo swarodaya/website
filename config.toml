@@ -57,7 +57,7 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text   = "Swarodaya, a vision of Acharya Seema Karecha, is aimed to help individuals transform life through the knowledge of occult science. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Numerology, under the guidance of accomplished gurus. She conducts training programs and provides services, where she uses the essence of these mystical sciences to bring happiness and prosperity to the life of a modern person."
+        text   = "Swarodaya, a vision of Acharya Seema Karecha, is aimed to help individuals transform life through the knowledge of occult science. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of SwarYog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Numerology, under the guidance of accomplished gurus. She conducts training programs and provides services, where she uses the essence of these mystical sciences to bring happiness and prosperity to the life of a modern person."
 
     # Videos section
     [params.videos]
@@ -165,7 +165,7 @@ googleAnalytics = "UA-25128293-7"
 
 		[[params.testimonials.list]]
 			modalID = 9
-			title = "Mr. Abbhiesh Sharma,<br/>Entrepreneur, Goa<hr/>&quot;I have been using the basics of Swar Yog in business. I found it to be of great use in making business decisions profitable, and convincing the clients better!!!.&quot;"
+			title = "Mr. Abbhiesh Sharma,<br/>Entrepreneur, Goa<hr/>&quot;I have been using the basics of SwarYog in business. I found it to be of great use in making business decisions profitable, and convincing the clients better!!!.&quot;"
 			img = "abhieshsharma.jpg"
 			description = "Entrepreneur, Goa"
 
@@ -207,13 +207,13 @@ googleAnalytics = "UA-25128293-7"
 
 		[[params.testimonials.list]]
 			modalID = 15
-			title = "Ms. Subhashini Sharma,<br/>Former Teacher, Delhi<hr/>&quot;Swaryog is a spiritual and enlightening experience. Everyone should learn and practice! Seemaji is an outstanding teacher!&quot;"
+			title = "Ms. Subhashini Sharma,<br/>Former Teacher, Delhi<hr/>&quot;SwarYog is a spiritual and enlightening experience. Everyone should learn and practice! Seemaji is an outstanding teacher!&quot;"
 			img = "subhashinisharma.jpg"
 			description = "Former Teacher, Delhi"
 
 		[[params.testimonials.list]]
 			modalID = 16
-			title = "Mr. Sachin Gupta,<br/>Student, New Delhi<hr/>&quot;Swaryog is all about your breath and with the help of this, we can transform our lives. Seemaji made it so simple and easy to learn.&quot;"
+			title = "Mr. Sachin Gupta,<br/>Student, New Delhi<hr/>&quot;SwarYog is all about your breath and with the help of this, we can transform our lives. Seemaji made it so simple and easy to learn.&quot;"
 			img = "sachingupta.jpg"
 			description = "Student, New Delhi"
 
@@ -240,26 +240,26 @@ googleAnalytics = "UA-25128293-7"
     [params.course]
         headline = "Residential Course"
         bg = "bg-light"
-        text = "Swar Yog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. Swar Yog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that knowledge helps you to create abundance at all levels.<p/> The Yoga Sutras of Patañjali are ancient Indian text consisting of 196 sutras, divided into four chapters. The Yoga Sutras were compiled prior to 400 BC by Sage Patanjali, summarizing yoga from older traditions. The Yog Sutras present, in a condensed form, the vast essence of life and methodically shares the ways of purposful living. The heart of these teachings is the eightfold path of yoga - also known as the Ashtanga Yog. These are also called the eight limbs of Patanjali, and they describe the practical steps to follow in order to be in a state of eternal flow, known as Kaivalya.<p/> Swarodaya - in it’s training programmes, brings to you the combined knowledge of these two sacred and deep subjects in the most lucid, easy to understand and practical manner that helps you to lead a fulfilling life filled with harmony and prosperity."
-	listheadline = "Course Schedule - September 2018"
+        text = "SwarYog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. SwarYog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that knowledge helps you to create abundance at all levels.<p/> The Yoga Sutras of Patañjali are ancient Indian text consisting of 196 sutras, divided into four chapters. The Yoga Sutras were compiled prior to 400 BC by Sage Patanjali, summarizing yoga from older traditions. The Yog Sutras present, in a condensed form, the vast essence of life and methodically shares the ways of purposful living. The heart of these teachings is the eightfold path of yoga - also known as the Ashtanga Yog. These are also called the eight limbs of Patanjali, and they describe the practical steps to follow in order to be in a state of eternal flow, known as Kaivalya.<p/> Swarodaya - in it’s training programmes, brings to you the combined knowledge of these two sacred and deep subjects in the most lucid, easy to understand and practical manner that helps you to lead a fulfilling life filled with harmony and prosperity."
+	listheadline = "Course Content - September 2018"
 	listheadline1 = "Venue and Date to be announced"
 	#listheadline2 = "Venue to be announced"
 
         [[params.course.list]]
-            title = "Day 1"
-            text = "<ul> <li>Swar Yog: An Introduction</li> <li>Chakras: An understanding</li> <li>Three Nadis In-Depth: Ida, Pingala, Sushumna</li> <li>Nadis: Practical Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity</li> <li>Nadis and Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Nadis and Health</li> <li>Nadis and Life Decisions</li> <li>Meditation</li> </ul>"
+            title = "SwarYog: Nadis"
+            text = "<ul> <li>Chakras And Nadis: An in-depth understanding and Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity & Health</li> <li>Nadis and Life Decisions & Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Swar Panchang</li> <li>Swar Log Book</li> </ul>"
 
         [[params.course.list]]
-            title = "Day 2"
-            text = "<ul> <li>Tatwas: An Introduction</li> <li>Tatwas: Evolution </li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Ashtang Tatwa Vigyan</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Questions of Life</li> <li>Tatwa And Prediction</li> <li>Meditation</li> <br/> <li>Patanjali Yog Sutras - Samadhi Pada</li> </ul>"
+            title = "SwarYog: Tatwas"
+            text = "<ul> <li>Tatwas: An Introduction</li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Ashtang Tatwa Vigyan - 8 Ways to recognize Tatwas</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Prediction</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Dowsing</li> </ul>"
 
         [[params.course.list]]
-            title = "Day 3"
-            text = "<ul> <li>Swar Saptang</li> <li>Swar Log Book</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Dowsing</li> <li>Swar and Day-to-Day Activities</li> <li>Meditation</li> <br/> <li>Patanjali Yog Sutras - Sadhana Pada</li> </ul>"
+            title = "Patanjali Yog Sutras"
+            text = "<ul> <li>Samadhi Pada</li> <li>Sadhana Pada</li> <li>Vibhuti Pada</li> <li>Kaivalya Pada</li> </ul>"
 
         [[params.course.list]]
-            title = "Day 4"
-            text = "<ul> <li>The Sacred Advanced Meditation</li> <br/> <li>Patanjali Yog Sutras - Vibhuti Pada</li> <br/> <li>Patanjali Yog Sutras - Kaivalya Pada</li> </ul>"
+            title = "Method of Meditation"
+            text = "<ul> <li>Rules for the best meditational experiences</li> <li>Elemental Meditations</li> <li>Sushumna Meditations</li> <li>Sacred Advance Meditations</li> </ul>"
 
 		# Acharya section
     [params.acharya]
@@ -273,7 +273,7 @@ googleAnalytics = "UA-25128293-7"
         batch_img2 = "201702udaipur.jpg"
         batch_title3 = "Batch of Feb, 2018<br/>Udaipur"
         batch_img3 = "201802udaipur.jpg"
-        text   = "Acharya Seema Karecha hails from a cultural background of artistic lineage, and she holds degrees in Philosophy, Psychology, and English literature.<br/><br/> As an explorer of timeless wisdom, she paved her spiritual journey of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Mahabharat under the guidance of accomplished gurus. In her training programs, she has simplified these mystical subjects for the modern man to reap its benefits for a better life."
+        text   = "Acharya Seema Karecha hails from a cultural background of artistic lineage, and she holds degrees in Philosophy, Psychology, and English literature.<br/><br/> As an explorer of timeless wisdom, she paved her spiritual journey of SwarYog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Mahabharat under the guidance of accomplished gurus. In her training programs, she has simplified these mystical subjects for the modern man to reap its benefits for a better life."
 
 		# Recent posts section
     [params.recentposts]
