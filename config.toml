@@ -14,7 +14,7 @@ googleAnalytics = "UA-25128293-7"
     # information about you and your website.
     name = "Swarodaya"
     description = "Maximize Your Potential"
-		keywords = "Swaryog,Swaryoga,Swarayog,Swarayoga,meditation,breathing,breathe,breath,patanjali,yogsutra"
+    keywords = "Swaryog,Swaryoga,Swarayog,Swarayoga,meditation,breathing,breathe,breath,patanjali,yogsutra"
 
     # The path must be relative to the static folder
     favicon = "favicon.png"
@@ -26,9 +26,10 @@ googleAnalytics = "UA-25128293-7"
 
         [params.navigation.links]
             intro     = "Intro"
-            enrol     = "Residential Course"
             benefits  = "Benefits"
-            acharya   = "Acharya"
+            enrol     = "Residential Course"
+            online    = "Online Course"
+            acharya   = "Alumni"
             contact   = "Contact"
             recentposts   = "Recent"
 
@@ -36,16 +37,19 @@ googleAnalytics = "UA-25128293-7"
         name = "Videos"
         identifier = "videos"
         url = "/videos/"
+        weight = 1
 
     [[menu.main]]
         name = "Testimonials"
         identifier = "testimonials"
         url = "/testimonials/"
+        weight = 2
 
     [[menu.main]]
         name = "Blog"
         identifier = "blog"
         url = "/blog/"
+        weight = 3
 
     # Hero section
     [params.hero]
@@ -57,50 +61,50 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text   = "Swarodaya, a vision of Acharya Seema Karecha, is aimed to help individuals transform life through the knowledge of occult science. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of SwarYog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Numerology, under the guidance of accomplished gurus. She conducts training programs and provides services, where she uses the essence of these mystical sciences to bring happiness and prosperity to the life of a modern person."
+        text = "Swarodaya, a vision of Acharya Seema Karecha, is aimed to help individuals transform life through the knowledge of occult science. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of SwarYog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Numerology, under the guidance of accomplished gurus. She conducts training programs and provides services, where she uses the essence of these mystical sciences to bring happiness and prosperity to the life of a modern person."
 
     # Videos section
     [params.videos]
         headline = "Videos"
-		title = "Purpose of Life"
-		video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
+        title = "Purpose of Life"
+        video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
 
         [[params.videos.list]]
             title = "The Element Of Air"
-			video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
+            video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
 
         [[params.videos.list]]
             title = "Swaryog, Feb 2017, Udaipur. A recap..."
-			video = "https://www.youtube.com/embed/U98nDu6tjTs?autoplay=0"
+            video = "https://www.youtube.com/embed/U98nDu6tjTs?autoplay=0"
 
         [[params.videos.list]]
             title = "Introduction to Swaryog"
-			video = "https://www.youtube.com/embed/6rN7s8BE9rI?autoplay=0"
+            video = "https://www.youtube.com/embed/6rN7s8BE9rI?autoplay=0"
 
         [[params.videos.list]]
             title = "Purpose of Life"
-			video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
+            video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
 
         [[params.videos.list]]
             title = "Story of Patanjali"
-			video = "https://www.youtube.com/embed/lcIVSxLiHAI?autoplay=0"
+            video = "https://www.youtube.com/embed/lcIVSxLiHAI?autoplay=0"
 
         [[params.videos.list]]
             title = "Predictions with Swar"
-			video = "https://www.youtube.com/embed/r3SV4R_iBnA?autoplay=0"
+            video = "https://www.youtube.com/embed/r3SV4R_iBnA?autoplay=0"
 
         [[params.videos.list]]
             title = "Tatwas and Mahabharat"
-			video = "https://www.youtube.com/embed/DWZXFemaeZ8?autoplay=0"
+            video = "https://www.youtube.com/embed/DWZXFemaeZ8?autoplay=0"
 
         [[params.videos.list]]
             title = "Make Swar Your Strength"
-			video = "https://www.youtube.com/embed/h3F_2gk-4q4?autoplay=0"
+            video = "https://www.youtube.com/embed/h3F_2gk-4q4?autoplay=0"
 
     # Benefits section
     [params.benefits]
-        headline = "Benefits"
-        bg  = "bg-dark"
+        headline = "Benefits of Learning"
+        bg  = "bg-light"
 
         [[params.benefits.list]]
             icon = "fa-home"
@@ -120,12 +124,12 @@ googleAnalytics = "UA-25128293-7"
         headline = "Testimonials"
         description = "Click on image for details"
 
-		# Features section
-		[[params.testimonials.list]]
-			modalID = 7
-			title = "Dr. Muneesh Gupta,<br/>General and Laparoscopic Surgeon, Bhathinda<hr/>&quot;I had been looking for these details for the last almost 22 years. And I got those at Swarodaya.&quot;"
-			img = "dr_muneeshgupta.jpg"
-			description = "General and Laparoscopic Surgeon, Bhathinda"
+    # Features section
+    [[params.testimonials.list]]
+    modalID = 7
+    title = "Dr. Muneesh Gupta,<br/>General and Laparoscopic Surgeon, Bhathinda<hr/>&quot;I had been looking for these details for the last almost 22 years. And I got those at Swarodaya.&quot;"
+    img = "dr_muneeshgupta.jpg"
+    description = "General and Laparoscopic Surgeon, Bhathinda"
 
 		[[params.testimonials.list]]
 			modalID = 2
@@ -239,7 +243,7 @@ googleAnalytics = "UA-25128293-7"
     # Aside section
     [params.course]
         headline = "Residential Course"
-        bg = "bg-light"
+        bg = "bg-dark"
         text = "SwarYog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. SwarYog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that knowledge helps you to create abundance at all levels.<p/> The Yoga Sutras of Patañjali are ancient Indian text consisting of 196 sutras, divided into four chapters. The Yoga Sutras were compiled prior to 400 BC by Sage Patanjali, summarizing yoga from older traditions. The Yog Sutras present, in a condensed form, the vast essence of life and methodically shares the ways of purposful living. The heart of these teachings is the eightfold path of yoga - also known as the Ashtanga Yog. These are also called the eight limbs of Patanjali, and they describe the practical steps to follow in order to be in a state of eternal flow, known as Kaivalya.<p/> Swarodaya - in it’s training programmes, brings to you the combined knowledge of these two sacred and deep subjects in the most lucid, easy to understand and practical manner that helps you to lead a fulfilling life filled with harmony and prosperity."
 	listheadline = "Course Content - September 2018"
 	listheadline1 = "Venue and Date to be announced"
@@ -261,10 +265,18 @@ googleAnalytics = "UA-25128293-7"
             title = "Method of Meditation"
             text = "<ul> <li>Rules for the best meditational experiences</li> <li>Elemental Meditations</li> <li>Sushumna Meditations</li> <li>Sacred Advance Meditations</li> </ul>"
 
-		# Acharya section
-    [params.acharya]
-        headline = "Acharya Seema Karecha"
+    # Aside section
+    [params.online]
+        headline = "Online Course"
         bg = "bg-light"
+        text = "The Swarodaya Online Learning Programme is designed mainly for the overseas learner, and is conducted on one-to-one basis through the medium of Skype/Facetime video calling.<p> The entire training programme spans over 12 sessions, with one session conducted every week. The duration of each session is two hours, and the training is covered over a period of 3 months."
+	energy = "Energy Exchange: 1,08,000 INR inclusive of GST"
+	content = "Course Content: Same as Residential Course"
+
+    # Acharya section
+    [params.acharya]
+        headline = "Residential Course Alumni"
+        bg = "bg-dark"
         title = "Batch of Sept, 2016<br/>Goa"
         img = "acharya.jpg"
         batch_title1 = "Batch of Sept, 2016<br/>Goa"
@@ -273,17 +285,17 @@ googleAnalytics = "UA-25128293-7"
         batch_img2 = "201702udaipur.jpg"
         batch_title3 = "Batch of Feb, 2018<br/>Udaipur"
         batch_img3 = "201802udaipur.jpg"
-        text   = "Acharya Seema Karecha hails from a cultural background of artistic lineage, and she holds degrees in Philosophy, Psychology, and English literature.<br/><br/> As an explorer of timeless wisdom, she paved her spiritual journey of SwarYog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Mahabharat under the guidance of accomplished gurus. In her training programs, she has simplified these mystical subjects for the modern man to reap its benefits for a better life."
+        #text = "xyz"
 
 		# Recent posts section
     [params.recentposts]
         headline = "Checkout the Recent Blog Posts"
-        bg = "bg-dark"
+        bg = "bg-light"
 
     # Contact section
     [params.contact]
         headline = "Get In Touch!"
-        bg = "bg-light"
+        bg = "bg-dark"
         description = ""
 
         [[params.contact.list]]

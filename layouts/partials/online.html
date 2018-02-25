@@ -1,0 +1,9 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside id="online" class="{{ with .Site.Params.online.bg}}{{ .  }}{{ end }}">
+	<div class="container text-center">
+		<h2>{{ with .Site.Params.online.headline | markdownify }}{{ . }}{{ end }}</h2>
+		<hr class="primary">
+		<p>{{ with .Site.Params.online.text | markdownify }}{{ . }}{{ end }}</p>
+		<h3>{{ with .Site.Params.online.energy | markdownify }}{{ . }}{{ end }}</h3>
+		<h3>{{ with .Site.Params.online.content | markdownify }}{{ . }}{{ end }}</h3>
+</aside>
