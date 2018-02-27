@@ -67,8 +67,16 @@ googleAnalytics = "UA-25128293-7"
     # Videos section
     [params.videos]
         headline = "Videos"
-        title = "Purpose of Life"
-        video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
+	title = "Ms Gaitry Kaul, Feb 2018, Udaipur"
+        video = "https://www.youtube.com/embed/KnAQQXmryGA?autoplay=0"
+
+        [[params.videos.list]]
+		title = "Ms Gaitry Kaul, Feb 2018, Udaipur"
+		video = "https://www.youtube.com/embed/KnAQQXmryGA?autoplay=0"
+
+        [[params.videos.list]]
+		title = "Mr Tushal Deep Singh, Feb 2018, Udaipur"
+		video = "https://www.youtube.com/embed/IQAO5d2V-VQ?autoplay=0"
 
         [[params.videos.list]]
             title = "The Element Of Air"
