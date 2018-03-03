@@ -254,9 +254,9 @@ googleAnalytics = "UA-25128293-7"
         headline = "Residential Course"
         bg = "bg-dark"
         text = "SwarYog, the ancient Indian science of breath awareness has been practiced since ages by yogis of India to make their lives more meaningful and fulfilling. SwarYog helps you in a way that rarely any other science can accomplish. It helps you to know yourself on various levels and with that knowledge helps you to create abundance at all levels.<p/> The Yoga Sutras of Patañjali are ancient Indian text consisting of 196 sutras, divided into four chapters. The Yoga Sutras were compiled prior to 400 BC by Sage Patanjali, summarizing yoga from older traditions. The Yog Sutras present, in a condensed form, the vast essence of life and methodically shares the ways of purposful living. The heart of these teachings is the eightfold path of yoga - also known as the Ashtanga Yog. These are also called the eight limbs of Patanjali, and they describe the practical steps to follow in order to be in a state of eternal flow, known as Kaivalya.<p/> Swarodaya - in it’s training programmes, brings to you the combined knowledge of these two sacred and deep subjects in the most lucid, easy to understand and practical manner that helps you to lead a fulfilling life filled with harmony and prosperity."
-	listheadline = "Course Content - September 2018"
-	listheadline1 = "Venue and Date to be announced"
-	#listheadline2 = "Venue to be announced"
+	listheadline = "Registrations Open"
+	listheadline1 = "Course Schedule: 8, 9, 10, 11 September 2018"
+	listheadline2 = "Venue: The Lalit, Udaipur"
 
         [[params.course.list]]
             title = "SwarYog: Nadis"
@@ -279,7 +279,7 @@ googleAnalytics = "UA-25128293-7"
         headline = "Online Course"
         bg = "bg-light"
         text = "The Swarodaya Online Learning Programme is designed mainly for the overseas learner, and is conducted on one-to-one basis through the medium of Skype/Facetime video calling.<p> The entire training programme spans over 12 sessions, with one session conducted every week. The duration of each session is two hours, and the training is covered over a period of 3 months."
-	energy = "Energy Exchange: 1,08,000 INR inclusive of GST"
+	energy = "Energy Exchange: 1,08,000 INR"
 	content = "Course Content: Same as Residential Course"
 
     # Services section
