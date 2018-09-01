@@ -62,7 +62,7 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text = "Swarodaya, a vision of Acharya Seema Karecha, is aimed to help individuals transform life through the knowledge of occult science. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of SwarYog, Yog Sutras of Patanjali, Vastu Shastra, Astrology, and Numerology, under the guidance of accomplished gurus. She conducts training programs and provides services, where she uses the essence of these mystical sciences to bring happiness and prosperity to the life of a modern person."
+        text = "Swarodaya, a vision of Acharya Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic knowledge. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, and Astrology under the guidance of accomplished gurus. She conducts training programs and provides services, where she teaches the essence of these mystical sciences that can help a modern person find happiness and prosperity."
 
     # Videos section
     [params.videos]
@@ -128,16 +128,23 @@ googleAnalytics = "UA-25128293-7"
     [params.benefits]
         headline = "Benefits of Learning"
         bg  = "bg-light"
+	text = "These are the tools, when understood and executed meaningfully, makes living a joy."
 
         [[params.benefits.list]]
-            icon = "fa-home"
-            title = "Personal"
-            text = "<ul><li>You will be able to make days calmer and stress-free.<li>People around you will feel deeply connected with you thus creating healthy relationships.<li>You will be able decide the intellectual level and temperament of your child (when you plan to conceive).<li>You will be able to shift your mental focus to most relevant and beneficial areas of life and by-pass the irrelevant past memories.<li>You will be able to see future of happenings thus taking wise decisions to alter the same.<li>Everyday, you will be expand threshold of your awareness leading towards more insightful and enlightened living.<li>You will be able to diagnose Vastu-flaws in a building and will be able to decide accurate measures.<li>You can by pass negative influence of planets with knowledge of Breath Awareness.<li>You will able to heal and ensure longevity following the elements of breath.</ul>"
+            title = "Swar Yog"
+            text = "Swaryog helps you raise your self awareness. A heightened sense of self-awareness helps you connect deeply with your inner self, and feel grounded and rooted.  Swaryog aids immensely in decision making which in turn makes it easy to navigate through a busy life."
 
         [[params.benefits.list]]
-            icon = "fa-university"
-            title = "Professional"
-            text = "<ul><li>Aligning your actions as per the breath rhythm, will help you create the desired outcome of your efforts.<li>Your interactions with people will be influential and impactful, wherever and whenever they happen. It can be a meeting, an email, a message or a chat.You will become intuitive to take profitable decisions.<li>You will be capable of converting any difficult situation in to a win-win resolve with a calm and a confident mind. Your planning for an event, travel or any strategy will always result into successful outcomes.<li>You will be able to absorb, remember and reproduce whatever you study and will be able to give your best performance (whether it's an exam, court-room or an important business presentation)."
+            title = "Patanjali Yog Sutra"
+            text = "Patanjali Yog Sutras help you attain immense clarity about the self, people, your life, and situations. It raises your potential to the maximum, helps you live life to the fullest, remain calm and confident, and handle stress better. It helps you plug your energy leakages, become more efficient, better organized and do more in shorter duration."
+
+        [[params.benefits.list]]
+            title = "Meditation"
+            text = "The thoughtfully designed meditation techniques help you expand the threshold of your awareness leading towards more insightful and enlightened living, which in turn helps you create a meaningful and satisfying life for yourself."
+
+        [[params.benefits.list]]
+            title = "Yogic Tools"
+            text = "The Yogic tools for abundance - Mantra, Yantra and Tantra - help you invite prosperity and abundance at all levels. It reduces the little day to day struggles, and helps life to flow smoothly."
 
     # Benefits videos section. This list of videos go on the front page
     [params.benefits.videos]

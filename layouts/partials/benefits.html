@@ -6,6 +6,9 @@
                 <h2 class="section-heading">{{ with .Site.Params.benefits.headline }}{{ . }}{{ end }}</h2>
                 <hr class="primary">
             </div>
+            <div class="text-center">
+		<h3>{{ with .Site.Params.benefits.text }}{{ . | markdownify }}{{ end }}</h3>
+	    </div>
         </div>
     </div>
     <div class="container">
