@@ -67,15 +67,29 @@ googleAnalytics = "UA-25128293-7"
     # Videos section
     [params.videos]
         headline = "Videos"
-	title = "Ms Gaitry Kaul, Feb 2018, Udaipur"
-        video = "https://www.youtube.com/embed/KnAQQXmryGA?autoplay=0"
 
         [[params.videos.list]]
-		title = "Ms Gaitry Kaul, Feb 2018, Udaipur"
+		title = "Ms Gaitry Kaul"
+		video = "https://www.youtube.com/embed/iV0m_HjUNlY?autoplay=0"
+
+        [[params.videos.list]]
+            title = "Dr Jai Madaan"
+            video = "https://www.youtube.com/embed/p23NctTfzK4?autoplay=0"
+
+        [[params.videos.list]]
+            title = "Mr Aman Gupta"
+            video = "https://www.youtube.com/embed/TLkKORg6uhA?autoplay=0"
+
+        [[params.videos.list]]
+            title = "Mr Abhishek Bansal"
+            video = "https://www.youtube.com/embed/1-gF_RpYkY4?autoplay=0"
+
+        [[params.videos.list]]
+		title = "Ms Gaitry Kaul"
 		video = "https://www.youtube.com/embed/KnAQQXmryGA?autoplay=0"
 
         [[params.videos.list]]
-		title = "Mr Tushal Deep Singh, Feb 2018, Udaipur"
+		title = "Mr Tushal Deep Singh"
 		video = "https://www.youtube.com/embed/IQAO5d2V-VQ?autoplay=0"
 
         [[params.videos.list]]
@@ -83,7 +97,7 @@ googleAnalytics = "UA-25128293-7"
             video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
 
         [[params.videos.list]]
-            title = "Swaryog, Feb 2017, Udaipur. A recap..."
+            title = "Swaryog"
             video = "https://www.youtube.com/embed/U98nDu6tjTs?autoplay=0"
 
         [[params.videos.list]]
@@ -134,15 +148,15 @@ googleAnalytics = "UA-25128293-7"
             video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
 
         [[params.benefits.videos.list]]
-		title = "Ms. Gaitry Kaul"
+		title = "Ms Gaitry Kaul"
 		video = "https://www.youtube.com/embed/iV0m_HjUNlY?autoplay=0"
 
         [[params.benefits.videos.list]]
-		title = "Mr. Tushal Deep Singh"
+		title = "Mr Tushal Deep Singh"
 		video = "https://www.youtube.com/embed/IQAO5d2V-VQ?autoplay=0"
 
         [[params.benefits.videos.list]]
-            title = "Dr. Jai Madaan"
+            title = "Dr Jai Madaan"
             video = "https://www.youtube.com/embed/p23NctTfzK4?autoplay=0"
 
 
