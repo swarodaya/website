@@ -259,20 +259,20 @@ googleAnalytics = "UA-25128293-7"
 	listheadline2 = "Venue: The Lalit, Udaipur"
 
         [[params.course.list]]
-            title = "SwarYog: Nadis"
-            text = "<ul> <li>Chakras And Nadis: An in-depth understanding and Usage</li> <li>Switching Nadis: Different Techniques</li> <li>Nadis and Prosperity & Health</li> <li>Nadis and Life Decisions & Prediction</li> <li>Nadis and Childbirth</li> <li>Nadis and Travel</li> <li>Swar Panchang</li> <li>Swar Log Book</li> </ul>"
+            title = "SwarYog"
+            text = "<ul> <li>Nadis</li> <li>Tattvas</li> <li>Practicals</li> </ul>"
 
         [[params.course.list]]
-            title = "SwarYog: Tatwas"
-            text = "<ul> <li>Tatwas: An Introduction</li> <li>Tatwas In-Depth: Space, Air, Fire, Earth, Water</li> <li>Ashtang Tatwa Vigyan - 8 Ways to recognize Tatwas</li> <li>Tatwa And Childbirth</li> <li>Tatwa And Prediction</li> <li>Swar and Astrology</li> <li>Swar and Vastu</li> <li>Swar and Dowsing</li> </ul>"
-
-        [[params.course.list]]
-            title = "Patanjali Yog Sutras"
+            title = "Yog Sutras"
             text = "<ul> <li>Samadhi Pada</li> <li>Sadhana Pada</li> <li>Vibhuti Pada</li> <li>Kaivalya Pada</li> </ul>"
 
         [[params.course.list]]
-            title = "Method of Meditation"
-            text = "<ul> <li>Rules for the best meditational experiences</li> <li>Elemental Meditations</li> <li>Sushumna Meditations</li> <li>Sacred Advance Meditations</li> </ul>"
+            title = "Meditations"
+            text = "<ul> <li>Mindfulness Meditation</li> <li>Elemental Meditation</li> <li>Sushumna Meditation</li> </ul>"
+
+        [[params.course.list]]
+            title = "Abundance"
+            text = "<ul> <li>Mantra</li> <li>Yantra (Sri Yantra)</li> <li>Tantra</li> </ul>"
 
     # Aside section
     [params.online]
