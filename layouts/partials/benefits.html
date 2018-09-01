@@ -35,7 +35,7 @@
 	<div class="container">
 		<div class="row">
 			{{ range .Site.Params.benefits.videos.list }}
-			<div class="col-lg-24 col-md-6 text-center">
+			<div class="col-lg-6 col-md-6 text-center">
 				<div class="service-box" style="min-height: 190px;">
 				<h3>{{ .title }}</h3>
 					<object style="width:100%; height:100%; height:300px; float: none; clear: both; margin: 2px auto;" data={{ .video }}>
@@ -43,5 +43,8 @@
 				</div>
 			</div>
 			{{ end }}
+	</div>
+        <div class="row">
+		<h3 class="section-heading text-center"><a href="/videos/">More videos ...</a></h3>
 	</div>
 </section>
