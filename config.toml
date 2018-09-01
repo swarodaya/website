@@ -125,6 +125,27 @@ googleAnalytics = "UA-25128293-7"
             title = "Professional"
             text = "<ul><li>Aligning your actions as per the breath rhythm, will help you create the desired outcome of your efforts.<li>Your interactions with people will be influential and impactful, wherever and whenever they happen. It can be a meeting, an email, a message or a chat.You will become intuitive to take profitable decisions.<li>You will be capable of converting any difficult situation in to a win-win resolve with a calm and a confident mind. Your planning for an event, travel or any strategy will always result into successful outcomes.<li>You will be able to absorb, remember and reproduce whatever you study and will be able to give your best performance (whether it's an exam, court-room or an important business presentation)."
 
+    # Benefits videos section. This list of videos go on the front page
+    [params.benefits.videos]
+        headline = "Videos"
+
+        [[params.benefits.videos.list]]
+            title = "The Element Of Air"
+            video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
+
+        [[params.benefits.videos.list]]
+		title = "Ms. Gaitry Kaul"
+		video = "https://www.youtube.com/embed/iV0m_HjUNlY?autoplay=0"
+
+        [[params.benefits.videos.list]]
+		title = "Mr. Tushal Deep Singh"
+		video = "https://www.youtube.com/embed/IQAO5d2V-VQ?autoplay=0"
+
+        [[params.benefits.videos.list]]
+            title = "Dr. Jai Madaan"
+            video = "https://www.youtube.com/embed/p23NctTfzK4?autoplay=0"
+
+
     # Feature modals
     [params.testimonials.modal]
         buttonText = "Close"
