@@ -353,6 +353,8 @@ googleAnalytics = "UA-25128293-7"
         batch_img2 = "201702udaipur.jpg"
         batch_title3 = "Batch of Feb, 2018<br/>Udaipur"
         batch_img3 = "201802udaipur.jpg"
+        batch_title4 = "Batch of Sep, 2018<br/>Udaipur"
+        batch_img4 = "201809udaipur.jpg"
         #text = "xyz"
 
 		# Recent posts section
