@@ -49,7 +49,7 @@ googleAnalytics = "UA-25128293-7"
     # Hero section
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-        slogan     = "Swarodaya"
+        slogan     = "SWARODAYA"
         subtitle   = "Maximize Your Potential"
 
 		# Intro section
@@ -180,7 +180,7 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.course.list]]
             title = "Meditations"
-            text = "<ul> <li>Mindfulness Meditation</li> <li>Elemental Meditation</li> <li>Sushumna Meditation</li> </ul>"
+            text = "<ul> <li>Devi Meditation</li> <li>Elemental Meditation</li> <li>Sushumna Meditation</li> </ul>"
 
         [[params.course.list]]
             title = "Abundance"
