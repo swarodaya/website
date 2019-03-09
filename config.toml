@@ -166,8 +166,8 @@ googleAnalytics = "UA-25128293-7"
         headline = "Residential Course"
         bg = "bg-dark"
         text = ""
-	listheadline = "Registrations Open"
-	listheadline1 = "Course Schedule: 12, 13, 14, 15 January 2019"
+	#listheadline = "Registrations Open"
+	listheadline1 = "Course Schedule: To be announced"
 	listheadline2 = "Venue: The Lalit, Udaipur"
 
         [[params.course.list]]
