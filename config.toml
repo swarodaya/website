@@ -167,7 +167,7 @@ googleAnalytics = "UA-25128293-7"
         bg = "bg-dark"
         text = ""
 	#listheadline = "Registrations Open"
-	listheadline1 = "Course Schedule: To be announced"
+	listheadline1 = "Course Schedule: 29, 30, 31 Aug, 1 Sept 2019"
 	listheadline2 = "Venue: The Lalit, Udaipur"
 
         [[params.course.list]]
@@ -247,5 +247,5 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.contact.list]]
             icon = "fa-phone"
-            text = "+91-9825-600347<br/>+91-9989-670951"
+            text = "+91-9825-600347"
 
