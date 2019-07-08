@@ -37,7 +37,7 @@ googleAnalytics = "UA-25128293-7"
     [[menu.main]]
         name = "Videos"
         identifier = "videos"
-        url = "/videos/"
+        url = "https://www.youtube.com/channel/UCvaQxVPq4O_y29Mf7HKFUNA"
         weight = 1
 
     [[menu.main]]
@@ -56,67 +56,7 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text = "Swarodaya, a vision of Acharya Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic knowledge. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, and Astrology under the guidance of accomplished gurus. She conducts training programs and provides services, where she teaches the essence of these mystical sciences that can help a modern person find happiness and prosperity."
-
-    # Videos section
-    [params.videos]
-        headline = "Videos"
-
-        [[params.videos.list]]
-		title = "Ms Gaitry Kaul"
-		video = "https://www.youtube.com/embed/iV0m_HjUNlY?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Dr Jai Madaan"
-            video = "https://www.youtube.com/embed/p23NctTfzK4?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Mr Aman Gupta"
-            video = "https://www.youtube.com/embed/TLkKORg6uhA?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Mr Abhishek Bansal"
-            video = "https://www.youtube.com/embed/1-gF_RpYkY4?autoplay=0"
-
-        [[params.videos.list]]
-		title = "Ms Gaitry Kaul"
-		video = "https://www.youtube.com/embed/KnAQQXmryGA?autoplay=0"
-
-        [[params.videos.list]]
-		title = "Mr Tushal Deep Singh"
-		video = "https://www.youtube.com/embed/IQAO5d2V-VQ?autoplay=0"
-
-        [[params.videos.list]]
-            title = "The Element Of Air"
-            video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Swaryog"
-            video = "https://www.youtube.com/embed/U98nDu6tjTs?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Introduction to Swaryog"
-            video = "https://www.youtube.com/embed/6rN7s8BE9rI?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Purpose of Life"
-            video = "https://www.youtube.com/embed/LAmlgk0KI8E?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Story of Patanjali"
-            video = "https://www.youtube.com/embed/lcIVSxLiHAI?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Predictions with Swar"
-            video = "https://www.youtube.com/embed/r3SV4R_iBnA?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Tatwas and Mahabharat"
-            video = "https://www.youtube.com/embed/DWZXFemaeZ8?autoplay=0"
-
-        [[params.videos.list]]
-            title = "Make Swar Your Strength"
-            video = "https://www.youtube.com/embed/h3F_2gk-4q4?autoplay=0"
+        text = "Swarodaya, a vision of Swaryogi Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic knowledge. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, and Astrology under the guidance of accomplished gurus. She conducts training programs and provides services, where she teaches the essence of these mystical sciences that can help a modern person find happiness and prosperity."
 
     # Benefits section
     [params.benefits]
@@ -130,7 +70,7 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.benefits.list.row1]]
             title = "Patanjali Yog Sutra"
-            text = "<p>The Yog Sutras were codified by Sage Patanjali about 5000 years ago in Sanskrit. The sutras, 196 in number and divided into 4 Padas or chapters, deals in depth with subjects like Samadhi and its forms, Sadhana and its various methods, Siddhis - their attainments and results, and Kaivalya - the science and art of being in Flow. The popular Ashtang Yog form the core of these Sutras. The aim of the Yog Sutras is to help an individual attain immense clarity about the self, life, people and situations, giving a framework and structure to daily living. It is a guide to raising potential to the maximum and living life to the fullest, maintaining calm and composure even in stressful situations. The Yog Sutras helps us identify, and then plug, our energy leakages on mental and physical level, helping us evolve, be efficient, better organized and gain inner strength.<br/><br/>During the course, Acharya Seema renders her understanding of these complex sutras in simple english and help the student grasp their crux and help make use of the understanding gained to simplify and enhance life."
+            text = "<p>The Yog Sutras were codified by Sage Patanjali about 5000 years ago in Sanskrit. The sutras, 196 in number and divided into 4 Padas or chapters, deals in depth with subjects like Samadhi and its forms, Sadhana and its various methods, Siddhis - their attainments and results, and Kaivalya - the science and art of being in Flow. The popular Ashtang Yog form the core of these Sutras. The aim of the Yog Sutras is to help an individual attain immense clarity about the self, life, people and situations, giving a framework and structure to daily living. It is a guide to raising potential to the maximum and living life to the fullest, maintaining calm and composure even in stressful situations. The Yog Sutras helps us identify, and then plug, our energy leakages on mental and physical level, helping us evolve, be efficient, better organized and gain inner strength.<br/><br/>During the course, Swaryogi Seema renders her understanding of these complex sutras in simple english and help the student grasp their crux and help make use of the understanding gained to simplify and enhance life."
 
 
         [[params.benefits.list.row2]]
@@ -139,27 +79,12 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.benefits.list.row2]]
             title = "Yogic Tools for Abundance"
-            text = "<p>The Yogic tools for abundance - Mantra, Yantra, and Tantra - help invite prosperity and abundance at all levels. It reduces the day-to-day struggles, helping life flow smoothly.<ul> <li>Mantra - In the Mantra sessions, students are guided through the basic understanding of Mantras and their usage in practical life. Guidelines are given on how to use Mantras in various areas of life, for e.g. how to make the day successful, eliminate negativity from the environment and food, reduce stress and create abundance. A special vedic ritual called Agni Pooja is taught to the students - where they learn to use Mantras with Agni to create a harmonious life.  <li>Yantra - In the Yantra session, students are blessed with Sri Yantra, are guided through its mysterious formation. They learn the ancient sacred process of it’s pooja and are blessed into the sadhana. Sri Yantra is said to be the King of Yantras, and its sadhana of which is said to be immensely beneficial to create abundance at all levels.  <li>Tantra - In the Tantra session, the students undergo an ancient meditation. This ancient and scared meditation, help the students emerge emotionally and spiritually uplifted after the process."
+            text = "<p>The Yogic tools for abundance - Mantra, Yantra, and Tantra - help invite prosperity and abundance at all levels. It reduces the day-to-day struggles, helping life flow smoothly.<ul> <li>Mantra - In the Mantra sessions, students are guided through the basic understanding of Mantras and their usage in practical life. Guidelines are given on how to use Mantras in various areas of life, for e.g. how to make the day successful, eliminate negativity from the environment and food, reduce stress and create abundance. A special vedic ritual called Agni Pooja is taught to the students - where they learn to use Mantras with Agni to create a harmonious life.  <li>Yantra - In the Yantra session, students are blessed with Sri Yantra, that is initiated in their name, and are guided through its mysterious formation. They learn the ancient sacred process of it’s pooja and are blessed into the sadhana. Sri Yantra is said to be the King of Yantras, and its sadhana of which is said to be immensely beneficial to create abundance at all levels.  <li>Tantra - In the Tantra session, the students undergo an ancient meditation. This ancient and scared meditation, help the students emerge emotionally and spiritually uplifted after the process."
 
     # Benefits videos section. This list of videos go on the front page
     [params.benefits.videos]
-        headline = "Videos"
-
-        [[params.benefits.videos.list]]
-            title = "The Element Of Air"
-            video = "https://www.youtube.com/embed/jdGNHGONGBc?autoplay=0"
-
-        [[params.benefits.videos.list]]
-		title = "Ms Gaitry Kaul"
-		video = "https://www.youtube.com/embed/iV0m_HjUNlY?autoplay=0"
-
-        [[params.benefits.videos.list]]
-		title = "Mr Tushal Deep Singh"
-		video = "https://www.youtube.com/embed/IQAO5d2V-VQ?autoplay=0"
-
-        [[params.benefits.videos.list]]
-            title = "Dr Jai Madaan"
-            video = "https://www.youtube.com/embed/p23NctTfzK4?autoplay=0"
+        headline = "Follow audio/video posts by Swaryogi Seema Karecha ..."
+        headlinesub = "... click here to go to Swarodaya channel on YouTube."
 
     # Aside section
     [params.course]
