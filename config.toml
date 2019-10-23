@@ -26,7 +26,7 @@ googleAnalytics = "UA-25128293-7"
 
         [params.navigation.links]
             intro     = "Intro"
-            benefits  = "Benefits"
+            benefits  = "Session Contents"
             enrol     = "Residential Course"
             online    = "Online Course"
             services  = "Services"
@@ -56,30 +56,30 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text = "Swarodaya, a vision of Swaryogi Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic knowledge. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. As an explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Vastu Shastra, and Astrology under the guidance of accomplished gurus. She conducts training programs and provides services, where she teaches the essence of these mystical sciences that can help a modern person find happiness and prosperity."
+        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Sri Vidya, and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
 
     # Benefits section
     [params.benefits]
-        headline = "Benefits of Learning"
+        headline = "Session Contents"
         bg  = "bg-light"
 	text = "These are the tools, when understood and executed meaningfully, makes living a joy."
 
         [[params.benefits.list.row1]]
             title = "Swar Yog"
-            text = "<p>Swaryog is an ancient indian science of breath awareness that has been practiced by yogis, spiritual masters, and seers of India, since thousands of years, to create a life of prosperity and abundance.<br/><br/> Swar is breath and yog is to unite. Swaryog is a science where we unite with our breath to gain an understanding of the self and our universe. Swar or breath can be understood in terms of Nadis and Tatwas. When the breath flows from the left nostril, it is referred as the Chandra Swar and is associated with the Ida nadi of our body. When the breath flows from the right nostril, it is referred as the Surya Swar and is associated with the Pingala Nadi of our body.  When the breath flows from the both the nostrils, at once, it is referred as the Shunya Swar and is connected with the Sushumna nadi of our body. The breath, depending on the flow is associated with the different nadis, which in turn, has different effects on our mind and body.<br/><br/>To add to the effect of these nadis, is the dimension of 'tatwas' or elements. The place in the nostril through which the breath flows, is referred as the 'element' or 'tatwa' of the breath. There are five different elements (Space, Air, Fire, Earth, and Water) that can flow in a nostril at a given time.<br/><br/>This combined play of Nadis and Tatwas is the science of Swaryog. It not only helps you raise your awareness and, connect deeply within, and feel grounded and rooted, but also is of immense help in decision making, event planning, foreseeing events, creating abundance and prosperity.<br/><br/>During the session, students learn to recognize the Nadis, the Tatwas and understand their properties and usage  for their personal and professional use." 
+            text = "<p>Swaryog is an ancient indian science of breath awareness that has been practiced by yogis, spiritual masters, and seers of India, since thousands of years, to create a life of prosperity and abundance.Swar is breath and yog is to unite. Swaryog is a science where we unite with our breath to gain an understanding of the self and our universe. Swar or breath can be understood in terms of Nadis and Tatwas. When the breath flows from the left nostril, it is referred as the Chandra Swar and is associated with the Ida nadi of our body. When the breath flows from the right nostril, it is referred as the Surya Swar and is associated with the Pingala Nadi of our body. When the breath flows from both nostrils, at once, it is referred as the Shunya Swar and is connected with the Sushumna nadi of our body. The breath, depending on the flow is associated with the different nadis, which in turn, has different effects on our mind and body.To add to the effect of these nadis, is the dimension of ‘tatwas’ or elements. The place in the nostril through which the breath flows, is referred to as the ‘element’ or ‘tatwa’ of the breath. There are five different elements (Space, Air, Fire, Earth, and Water) that can flow in a nostril at a given time. This combined play of Nadis and Tatwas is the science of Swaryog. It not only helps you raise your awareness and connect deeply within, and feel grounded and rooted, but also is of immense help in decision making, event planning, foreseeing events, creating abundance and prosperity.During the session, students learn to recognize the Nadis, the Tatwas and understand their properties and usage for their personal and professional use.<p> <br> The Swaryog session covers: <ul> <li> An in-depth understanding of the Nadis and Tatwas. This includes the Nadis and Tatwa identification, and their practical usage in terms of understanding your own mind and emotions based on your own Swar, working through your own challenges and gaining clarity, making major and minor life decisions and creating a contented life. <li> Swar Panchang - Planning events (wedding, meetings, interviews etc) based on the knowledge of Swar. <li> Association of Swar with other occult sciences like Astrology and Vastu." 
 
         [[params.benefits.list.row1]]
-            title = "Patanjali Yog Sutra"
-            text = "<p>The Yog Sutras were codified by Sage Patanjali about 5000 years ago in Sanskrit. The sutras, 196 in number and divided into 4 Padas or chapters, deals in depth with subjects like Samadhi and its forms, Sadhana and its various methods, Siddhis - their attainments and results, and Kaivalya - the science and art of being in Flow. The popular Ashtang Yog form the core of these Sutras. The aim of the Yog Sutras is to help an individual attain immense clarity about the self, life, people and situations, giving a framework and structure to daily living. It is a guide to raising potential to the maximum and living life to the fullest, maintaining calm and composure even in stressful situations. The Yog Sutras helps us identify, and then plug, our energy leakages on mental and physical level, helping us evolve, be efficient, better organized and gain inner strength.<br/><br/>During the course, Swaryogi Seema renders her understanding of these complex sutras in simple english and help the student grasp their crux and help make use of the understanding gained to simplify and enhance life."
+            title = "The Yog Sutras of Patanjali"
+            text = "<p>The Yog Sutras were codified by Sage Patanjali about 5000 years ago in Sanskrit. The sutras, 196 in number and divided into 4 Padas or chapters, deals in depth with subjects like Samadhi and its forms, Sadhana and its various methods, Siddhis - their attainments and results, and Kaivalya - the science and art of being in Flow. The popular Ashtang Yog form the core of these Sutras. The aim of the Yog Sutras is to help an individual attain immense clarity about the self, life, people and situations, giving a framework and structure to daily living. It is a guide to raising potential to the maximum and living life to the fullest, maintaining calm and composure even in stressful situations. The Yog Sutras helps us identify, and then plug, our energy leakages on mental and physical level, helping us evolve, be efficient, better organized and gain inner strength.<p> During the course, Seema Karecha renders her understanding of these complex sutras in simple english and helps the student grasp their crux and make use of the understanding to simplify and enhance life.<p> <br> Through these sutras, you will receive the vedic wisdom on - <p> <li> How to resolve conflicts of your own mind, and bring it to a steady, stable and a healthy state. <li> Discover and then connect with the ISHWAR TATWA within. <li> Make life more meaningful and contented.  "
 
 
         [[params.benefits.list.row2]]
-            title = "Meditation"
-            text = "<p>Many of us meditate - or have at least tried to meditate - but may not have found the results satisfactory. Many a times, when we sit to meditate, we end up closing our eyes and lose ourselves in thoughts, and fail to get the desired benefits. There are special techniques that must be followed to experience deep meditative states. At Swarodaya, students are beautifully guided through thoughtfully designed techniques to bring in a state where they are actually able to immerse themselves in the state of deep meditation. The specially designed meditative techniques help one expand the threshold of awareness leading one towards more insightful and enlightened living."
+            title = "Method of Meditation"
+            text = "<p>Many of us meditate - or have at least tried to meditate - but may not have found the results satisfactory. Many a times, when we sit to meditate, we end up closing our eyes and lose ourselves in thoughts, and fail to get the desired benefits. There are special techniques that must be followed to experience deep meditative states. At Swarodaya, students are beautifully guided through thoughtfully designed techniques to bring in a state where they are actually able to immerse themselves in the state of deep meditation. The specially designed meditative techniques help one expand the threshold of awareness leading one towards more insightful and enlightened living. <p> The meditation sessions include : <li> Tatwa Meditations. <li> Sushumna Meditation. <li> Devi Meditation (an ancient meditation, that help you emerge emotionally and spiritually uplifted after the process. It is an extremely deep and cleansing process that balances the inner and the outer being)."
 
         [[params.benefits.list.row2]]
-            title = "Yogic Tools for Abundance"
-            text = "<p>The Yogic tools for abundance - Mantra, Yantra, and Tantra - help invite prosperity and abundance at all levels. It reduces the day-to-day struggles, helping life flow smoothly.<ul> <li>Mantra - In the Mantra sessions, students are guided through the basic understanding of Mantras and their usage in practical life. Guidelines are given on how to use Mantras in various areas of life, for e.g. how to make the day successful, eliminate negativity from the environment and food, reduce stress and create abundance. A special vedic ritual called Agni Pooja is taught to the students - where they learn to use Mantras with Agni to create a harmonious life.  <li>Yantra - In the Yantra session, students are blessed with Sri Yantra, that is initiated in their name, and are guided through its mysterious formation. They learn the ancient sacred process of it’s pooja and are blessed into the sadhana. Sri Yantra is said to be the King of Yantras, and its sadhana of which is said to be immensely beneficial to create abundance at all levels.  <li>Tantra - In the Tantra session, the students undergo an ancient meditation. This ancient and scared meditation, help the students emerge emotionally and spiritually uplifted after the process."
+            title = "Sri Vidya Sadhana"
+            text = "<p>Sri is auspicious and vidya is knowledge. Sri Vidya is that knowledge which brings auspiciousness. It is that knowledge brings all that is needed for us to evolve into higher levels. This vidya is devoted to the worship of the Mother Goddess. It is called the bhog and moksha pradayini vidya, as it is aimed at material prosperity and spiritual liberation. Sri Yantra, a complex geometric diagram, becomes the medium through which this worship takes place for the manifestation of material and spiritual desires. <P> During the session, you will - <li> Learn this Vidya and receive practical guidance on it rituals. <li> Receive the Sri Yantra (to take home), with a complete understanding of it’s complex formation and practical guidance on pooja process. <li> Learn Agni Pooja - an ancient vedic learn to use Mantras with Agni. "
 
     # Benefits videos section. This list of videos go on the front page
     [params.benefits.videos]
@@ -88,36 +88,37 @@ googleAnalytics = "UA-25128293-7"
 
     # Aside section
     [params.course]
-        headline = "Residential Course"
+        headline = "The Swarodaya Residential Session"
         bg = "bg-dark"
         text = ""
 	#listheadline = "Registrations Open"
-	listheadline1 = "Course Schedule: 29, 30, 31 Aug, 1 Sept 2019"
+	listheadline1 = "Dates: February 2020."
 	listheadline2 = "Venue: The Lalit, Udaipur"
+    listheadline3 = "Details: The session starts on Day 1 at 9:00 hours and ends on Day 3 at 18:00 hours. It covers complete stay and food for the above dates and duration."
 
-        [[params.course.list]]
-            title = "SwarYog"
-            text = "<ul> <li>Nadis</li> <li>Tattvas</li> <li>Practicals</li> </ul>"
-
-        [[params.course.list]]
-            title = "Yog Sutras"
-            text = "<ul> <li>Samadhi Pada</li> <li>Sadhana Pada</li> <li>Vibhuti Pada</li> <li>Kaivalya Pada</li> </ul>"
-
-        [[params.course.list]]
-            title = "Meditations"
-            text = "<ul> <li>Devi Meditation</li> <li>Elemental Meditation</li> <li>Sushumna Meditation</li> </ul>"
-
-        [[params.course.list]]
-            title = "Abundance"
-            text = "<ul> <li>Mantra</li> <li>Yantra (Sri Yantra)</li> <li>Tantra</li> </ul>"
+       # [[params.course.list]]
+       #     title = "SwarYog"
+       #     text = "<ul> <li>Nadis</li> <li>Tattvas</li> <li>Practicals</li> </ul>"
+#
+       # [[params.course.list]]
+       #     title = "Yog Sutras"
+       #     text = "<ul> <li>Samadhi Pada</li> <li>Sadhana Pada</li> <li>Vibhuti Pada</li> <li>Kaivalya Pada</li> </ul>"
+#
+       # [[params.course.list]]
+       #     title = "Meditations"
+       #     text = "<ul> <li>Devi Meditation</li> <li>Elemental Meditation</li> <li>Sushumna Meditation</li> </ul>"
+#
+       # [[params.course.list]]
+       #     title = "Abundance"
+       #     text = "<ul> <li>Mantra</li> <li>Yantra (Sri Yantra)</li> <li>Tantra</li> </ul>"
 
     # Aside section
     [params.online]
-        headline = "Online Course"
+        headline = "The Swarodaya Online Session"
         bg = "bg-light"
-        text = "The Swarodaya Online Learning Programme is designed mainly for the overseas learner, and is conducted on one-to-one basis through the medium of Skype/Facetime video calling.<p> The entire training programme spans over 12 sessions, with one session conducted every week. The duration of each session is two hours, and the training is covered over a period of 3 months."
-	energy = "Energy Exchange: 1,08,000 INR"
-	content = "Course Content: Same as Residential Course"
+        text = "The Swarodaya Online Learning Programme is designed mainly for the overseas learner, and is conducted on one-to-one basis through the medium of Skype/Facetime video calling. The session contents remain the same, with one session, conducted every week. "
+	#energy = "Energy Exchange: 1,08,000 INR"
+	details = "For further details, write to us at info@swarodaya.com with your name, address and phone"
 
     # Services section
     [params.services]
@@ -149,6 +150,8 @@ googleAnalytics = "UA-25128293-7"
         batch_img3 = "201802udaipur.jpg"
         batch_title4 = "Batch of Sep, 2018<br/>Udaipur"
         batch_img4 = "201809udaipur.jpg"
+        batch_title5 = "Batch Of Aug, 2019<br/>Udaipur"
+        batch_img5 = "201908udaipur.jpg"
         #text = "xyz"
 
 		# Recent posts section
