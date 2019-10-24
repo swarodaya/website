@@ -95,6 +95,7 @@ googleAnalytics = "UA-25128293-7"
 	listheadline1 = "Dates: February 2020."
 	listheadline2 = "Venue: The Lalit, Udaipur"
     listheadline3 = "Details: The session starts on Day 1 at 9:00 hours and ends on Day 3 at 18:00 hours. It covers complete stay and food for the above dates and duration."
+    listheadline4 = "Guests: You can to bring a family member along in the session. Their stay shall be charged separately. Guest stay details can be received through email."
 
        # [[params.course.list]]
        #     title = "SwarYog"
