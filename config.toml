@@ -92,10 +92,10 @@ googleAnalytics = "UA-25128293-7"
         bg = "bg-dark"
         text = ""
 	#listheadline = "Registrations Open"
-	listheadline1 = "Dates: 6-7-8 February, 2020."
-	listheadline2 = "Venue: The Lalit, Udaipur"
-    listheadline3 = "Details: The session starts on Day 1 at 9:00 hours and ends on Day 3 at 18:00 hours. It covers complete stay and food for the above dates and duration."
-    listheadline4 = "Guests: You can bring a family member along in the session. Their stay shall be charged separately. Guest stay details can be received through email."
+	listheadline1 = "Dates: To be announced"
+	listheadline2 = ""
+    listheadline3 = ""
+    listheadline4 = ""
 
        # [[params.course.list]]
        #     title = "SwarYog"
@@ -115,10 +115,10 @@ googleAnalytics = "UA-25128293-7"
 
     # Aside section
     [params.online]
-        headline = "The Swarodaya Online Session"
+        headline = "The Swarodaya Online One to One Session"
         bg = "bg-light"
-        text = "The Swarodaya Online Learning Programme is designed mainly for the overseas learner, and is conducted on one-to-one basis through the medium of Skype/Facetime video calling. The session contents remain the same, with one session, conducted every week. "
-	#energy = "Energy Exchange: 1,08,000 INR"
+        text = "The Swarodaya Online Learning Programme is designed mainly for the overseas learner, and is conducted on one-to-one basis through the medium of Skype/FaceTime video calling. The session contents remain the same, with one session, conducted every week."
+	energy = "Energy Exchange: 1,25,000 INR"
 	details = "For further details, write to us at info@swarodaya.com with your name, address and phone"
 
     # Services section
