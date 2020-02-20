@@ -1,0 +1,38 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside id="onedaycourse" class="{{ with .Site.Params.onedaycourse.bg}}{{ .  }}{{ end }}">
+	<div class="container text-center">
+		<h2>{{ with .Site.Params.onedaycourse.headline | markdownify }}{{ . }}{{ end }}</h2>
+		<hr class="primary">
+		<p>{{ with .Site.Params.onedaycourse.text | markdownify }}{{ . }}{{ end }}</p>
+	</div>
+	<div class="container">
+		<div class="row">
+			<h3 class="section-heading text-center">{{ with .Site.Params.onedaycourse.listheadline }}{{ . }}{{ end }}</h3>
+			<h3 class="section-heading text-center">{{ with .Site.Params.onedaycourse.listheadline1 }}{{ . }}{{ end }}</h3>
+			<h3 class="section-heading text-center">{{ with .Site.Params.onedaycourse.listheadline2 }}{{ . }}{{ end }}</h3>
+			<h3 class="section-heading text-center">{{ with .Site.Params.onedaycourse.listheadline3 }}{{ . }}{{ end }}</h3>
+			<h3 class="section-heading text-center">{{ with .Site.Params.onedaycourse.listheadline4 }}{{ . }}{{ end }}</h3>
+			<hr class="primary">
+			<!-- {{ range .Site.Params.onedaycourse.list }}
+			<div class="col-lg-3 col-md-6 text-center">
+				<div class="service-box" style="min-height: 190px;">
+					<h2 class="panel-heading text-left">{{ .title | markdownify }}</h2>
+					<div class="text-left">
+						<p class="text-muted">{{ .description }}</p>
+						<p class="text-muted">{{ .text | markdownify }}</p>
+					</div>
+				</div>
+			</div>
+			{{ end }} -->
+
+		</div>
+	</div>
+	<div class="container text-center">
+		
+		{{ partial "prices.html" . }}
+		<!--hr class="primary"-->
+		<!--h3 class="section-heading text-center">Energy Exchange for the session - INR 99, 999 Rs</h3-->
+		<h3>For enquiries, write to us at <a href="mailto:info@swarodaya.com?subject=Residential Course Inquiry">info@swarodaya.com</a> with your name, address, and phone. Or WhatsApp Mrs Krupa Sinroja Dalal @ +91 9825600347.</h3>
+	</div>
+	
+</aside>
