@@ -26,7 +26,7 @@ googleAnalytics = "UA-25128293-7"
 
         [params.navigation.links]
             intro               = "Intro"
-            onedaycourse        = "Day Course (New!)"
+            learn               = "Learn"
             residentialcourse   = "Residential Course"
             online              = "Online Course"
             services            = "Services"
@@ -86,26 +86,32 @@ googleAnalytics = "UA-25128293-7"
         headline = "Follow audio/video posts by Swaryogi Seema Karecha ..."
         headlinesub = "... click here to go to Swarodaya channel on YouTube."
 
-    # OneDayCourse section
-    [params.onedaycourse]
-        headline = "One Day Non-Residential Course"
+    # Learn section
+    [params.learn]
+        headline = "Learn"
         bg  = "bg-light"
-	text = "Saraswati and Shakti Sadhana for Prosperity and Wellbeing"
+	text = "The following subjects are available for learning"
 
-        [params.onedaycourse.row1]
+        [params.learn.row1]
+            title = "Swaryog"
+            text = "<p>Swaryog, an ancient science of breath awareness, has been practiced by yogis, spiritual masters, and seers of India, since thousands of years, to create a life of prosperity and abundance. Swar is breath and yog is to unite. Swar yog is the science of breath awareness where we observe and analyse our own breath, to make sense of ourselves, our lives and our surroundings. Swar yog sciences interpret breath on the dimensions of Nadis (the particular nostril from which the breath flow is on) and Tatwas (the exact place in the nostril from where it flows freely).</p><p>Learning the sacred science of Swar yog, will help you gain an in-depth understanding (theoretical and practical) of Nadis and Tatwas. It will help you:<ul><li>Make meaningful life decisions to create prosperity and abundance</li><li>Manage emotions and health better</li><li>Plan all your major and minor activities as per the flow of Swar</li><li>Correlate Vastu and Astrology with the science of Swar yog</li><li>Receive some special swar meditations and techniques to help you expand the threshold of your awareness and lead an insightful life.</li></ul>"
+
+        [params.learn.row2]
+            title = "Patanjali Yog Sutra"
+            text = "<p>One of the six vedic shat-darshans, this ancient most self-help vedic wisdom of India, addresses the maladies of the human mind. This text, composed of 196 sutras, divided into four padas - Samadhi, Sadhana, Vibhuti and Kaivalya, systematically presents the knowledge of Yog in an organized way. During the session, you will understand all the 196 sutras, in-depth, with practical to-do exercises, that shall help you to imbibe the essence of these sutras into day-to-day modern life.</p>Understanding the Yog Sutras will help you gain vedic insights on:<ul><li>How to clear the mind from doubt and duality and make life meaningful and contented.</li><li>How to recognize energy leakages in day-to-day life, overcome them, and find the ISHWAR TATWA that lies within you.</li><li>How to unlock your core potential and grow to the next level.</li></ul>"
+
+        [params.learn.row3]
+            title = "Sri Vidya Sadhana"
+            text = "<p>Sri is auspicious and vidya is knowledge. Sri Vidya is that knowledge which brings auspiciousness. It is that knowledge brings all that is needed for us to evolve into higher levels. This vidya is devoted to the worship of the Mother Goddess. It is called the bhog and moksha pradayini vidya, as it is aimed at material prosperity and spiritual liberation. Sri Yantra, a complex geometric diagram, becomes the medium through which this worship takes place for the manifestation of material and spiritual desires.</p><p>In the Shree Vidya session, you will:<ul><li>Receive a complete theoretical understanding of the subject and a complete practical guidance of the puja ritual.</li><li>Receive an energised Sri Yantra to be kept in your home/pooja for the prosperity of the family.</li><li>Gain the practical and theoretical knowledge of Agni Pooja - an ancient vedic ritual where Mantras are used along with Agni to create a better life.</li></ul>"
+
+        [params.learn.row4]
             title = "Saraswati Sadhana"
-            text = "<p>Saraswati Sadhana is a sadhana that will help you activate your power of speech, help you sharpen your intellect and your power of expressions.</p><p>Learn this sadhana to:<ul><li>Empower yourself to change your destiny.</li><li>Manifest your desires through your own speech.</li><li>Gain the ability to express yourself with immense confidence.</li></ul><p>Once you are initiated into this and practice it on a regular basis, you will:</p><ul><li>You will see your speech becoming clearer and your expressions becoming meaningful.</li><li>As a business person and a professional, your ability to convey your ideas to your clients will increase many fold.</li><li>As a student, your ability to understand your subject and retain your knowledge will improve immensely.</li><li>As a consultant, you will see your intelligence and insights increase many fold.</li><li>In your day to day dealings, you will observe that people take you seriously and listen when you talk.</li></ul><p>It will be of immense help to you in so many ways, for you will have the blessings of Maa Saraswati with you, in you!</p>"
+            text = "<p>Saraswati Sadhana is a sadhana that will help you activate your power of speech, help you sharpen your intellect and your power of expressions.</p><p>Learning this sadhana, will help you:<ul><li>Empower yourself to change your destiny.</li><li>Manifest your desires through your own speech.</li><li>Gain the ability to express yourself with immense confidence.</li></ul><p>Once you are initiated into this and practice it on a regular basis, you will:<ul><li>You will see your speech becoming clearer and your expressions becoming meaningful.</li><li>As a business person and a professional, your ability to convey your ideas to your clients will increase many fold.</li><li>As a student, your ability to understand your subject and retain your knowledge will improve immensely.</li><li>As a consultant, you will see your intelligence and insights increase many fold.</li><li>In your day to day dealings, you will observe that people take you seriously and listen when you talk.</li></ul><p>It will be of immense help to you in so many ways, for you will have the blessings of Maa Saraswati with you, in you!</p>"
 
-        [params.onedaycourse.row2]
+
+        [params.learn.row5]
             title = "Shakti Sadhana"
-            text = "<p>Shakti Sadhana is all about establishing the presence of the Divine Mother within you. It is a very empowering process.</p><p>Learn this sadhana to:</p><ul><li>Connect with the Mother and obtain her guidance whenever feeling lost.</li><li>Create a life of abundance at all levels.</li><li>Build yourself and lead your life in a very different direction.</li></ul><p>The Mother Divine is very powerful and everywhere, but after being initiated into this Sadhana, you will be:</p><ul><li>Able to feel her presence closely and will be able to make use of this energy.</li><li>Receive her blessings in your being.</li><li>Bring about a strong sense of stability, protection and nourishment within.</li><li>Navigate through the most difficult situations of your life maintaining your dignity and grace.</li></ul>"
-
-        [params.onedaycourse.row3]
-            title = "Course Details"
-            subtitle = "10 am – 6 pm"
-            subtitle1 = "Sunday, 26 April 2020"
-            subtitle2 = "Novotel, Ahmedabad"
-            text = "<p>Saraswati and Shakti sadhana, when performed together, are life changing.</p><p>In the session, you will be systematically initiated into these two sadhanas, and once you are initiated, you will be able to perform them yourself on a daily basis. The steps are very practical and easy to follow.</p><p>The format is a one day, non-residential session in Ahmedabad and is planned in the last week of April 2020, with an energy exchange of ₹21,000.</p><p>For the early birds who enroll on or before 29th February the energy exchange is ₹18,000.</p><p>Enrol and empower yourself to change your life and the life of your loved ones! Contact Mrs. Krupa Dalal at +91-9825600347.</p>"
+            text = "<p>Shakti Sadhana is all about establishing the presence of the Divine Mother within you. It is a very empowering process.</p><p>Learning this sadhana will help you to:<ul><li>Connect with the Mother and obtain her guidance whenever feeling lost.<li><li>Create a life of abundance at all levels.<li><li>Build yourself and lead your life in a very different direction.<li></ul><p>The Mother Divine is very powerful and everywhere, but after being initiated into this Sadhana, you will be:<ul><li>Able to feel her presence closely and will be able to make use of this energy.</li><li>Receive her blessings in your being.</li><li>Bring about a strong sense of stability, protection and nourishment within.</li><li>Navigate through the most difficult situations of your life maintaining your dignity and grace.</li></ul>"
 
     # Aside section
     [params.online]
