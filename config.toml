@@ -65,7 +65,7 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.enrol.list.row1]]
             title = "Online Sessions"
-            text = "<p>The Swarodaya one-on-one online learning programs, designed in a way to help you understand and grasp the subject well and facilitate your learning from the ease of your own home! Online sessions details:<ul><li>Swar Yog - Five sessions (one session a week)</li><li>Patanjali Yog Sutras- Five sessions (one session a week)</li><li>Shree Vidya Sadhana - Single session</li><li>Saraswati Sadhana - Single session</li><li>Shakti Sadhana - Single session</li></ul>"
+            text = "<p>The Swarodaya one-on-one online learning programs, designed in a way to help you understand and grasp the subject well and facilitate your learning from the ease of your own home! Online sessions details:<p><ul><li>Swar Yog - Five sessions (one session a week)</li><li>Patanjali Yog Sutras- Five sessions (one session a week)</li><li>Shree Vidya Sadhana - Single session</li><li>Saraswati Sadhana - Single session</li><li>Shakti Sadhana - Single session</li></ul>"
 
         [[params.enrol.list.row1]]
             title = "Classroom Session"
@@ -75,7 +75,7 @@ googleAnalytics = "UA-25128293-7"
     [params.learn]
         headline = "Learn"
         bg  = "bg-light"
-	text = "The following subjects are available for learning"
+	text = ""
 
         [params.learn.row1]
             title = "Swaryog"
@@ -96,7 +96,7 @@ googleAnalytics = "UA-25128293-7"
 
         [params.learn.row5]
             title = "Shakti Sadhana"
-            text = "<p>Shakti Sadhana is all about establishing the presence of the Divine Mother within you. It is a very empowering process.</p><p>Learning this sadhana will help you to:<ul><li>Connect with the Mother and obtain her guidance whenever feeling lost.<li><li>Create a life of abundance at all levels.<li><li>Build yourself and lead your life in a very different direction.<li></ul><p>The Mother Divine is very powerful and everywhere, but after being initiated into this Sadhana, you will be:<ul><li>Able to feel her presence closely and will be able to make use of this energy.</li><li>Receive her blessings in your being.</li><li>Bring about a strong sense of stability, protection and nourishment within.</li><li>Navigate through the most difficult situations of your life maintaining your dignity and grace.</li></ul>"
+            text = "<p>Shakti Sadhana is all about establishing the presence of the Divine Mother within you. It is a very empowering process.</p><p>Learning this sadhana will help you to:<ul><li>Connect with the Mother and obtain her guidance whenever feeling lost.</li><li>Create a life of abundance at all levels.</li><li>Build yourself and lead your life in a very different direction.</li></ul><p>The Mother Divine is very powerful and everywhere, but after being initiated into this Sadhana, you will be:<ul><li>Able to feel her presence closely and will be able to make use of this energy.</li><li>Receive her blessings in your being.</li><li>Bring about a strong sense of stability, protection and nourishment within.</li><li>Navigate through the most difficult situations of your life maintaining your dignity and grace.</li></ul>"
 
     # Services section
     [params.services]
