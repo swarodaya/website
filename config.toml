@@ -117,7 +117,7 @@ googleAnalytics = "UA-25128293-7"
     # Acharya section
     [params.acharya]
         headline = "Residential Course Alumni"
-        bg = "bg-dark"
+        bg = "bg-light"
         title = "Batch of Sept, 2016<br/>Goa"
         img = "acharya.jpg"
         batch_title1 = "Batch of Sept, 2016<br/>Goa"
@@ -135,7 +135,7 @@ googleAnalytics = "UA-25128293-7"
 		# Recent posts section
     [params.recentposts]
         headline = "Blog"
-        bg = "bg-light"
+        bg = "bg-dark"
 
     # Contact section
     [params.contact]
