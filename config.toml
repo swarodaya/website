@@ -56,7 +56,7 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Sri Vidya, and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
+        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Sri Vidya, Tantra, Astrology and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
 
     # residentialcourse section
     [params.residentialcourse]
