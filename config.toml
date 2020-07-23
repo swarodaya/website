@@ -5,6 +5,9 @@ title = "Swarodaya - Maximize Your Potential"
 canonifyurls = false
 googleAnalytics = "UA-25128293-7"
 
+[markup]
+    defaultMarkdownHandler = "blackfriday"
+
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
