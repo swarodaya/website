@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Swarodaya - Maximize Your Potential</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Swarodaya - Maximize Your Potential</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2017 11:41:31 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 18:51:53 +0530</lastBuildDate>
     
 	<atom:link href="https://swarodaya.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mrs Bushan Vijay Lakshmi on Shakti Sadhana</title>
+      <link>https://swarodaya.com/blog/20200723-smt_vijay_lakshmi/</link>
+      <pubDate>Thu, 23 Jul 2020 18:51:53 +0530</pubDate>
+      
+      <guid>https://swarodaya.com/blog/20200723-smt_vijay_lakshmi/</guid>
+      <description>Mrs Bushan Vijay Lakshmi shares her emotions on Shakti Sadhana.</description>
+    </item>
     
     <item>
       <title>Bhrisha: The Creator of Goodwill Zone</title>

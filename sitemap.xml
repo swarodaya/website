@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://swarodaya.com/blog/</loc>
+    <lastmod>2020-07-23T18:51:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swarodaya.com/blog/20200723-smt_vijay_lakshmi/</loc>
+    <lastmod>2020-07-23T18:51:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swarodaya.com/</loc>
+    <lastmod>2020-07-23T18:51:53+05:30</lastmod>
+  </url>
   
   <url>
     <loc>https://swarodaya.com/blog/20171103-bhrisha/</loc>
@@ -133,6 +148,11 @@
   </url>
   
   <url>
+    <loc>https://swarodaya.com/videos/</loc>
+    <lastmod>2016-10-27T08:56:11+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swarodaya.com/videos/dummy/</loc>
     <lastmod>2016-10-27T08:56:11+05:30</lastmod>
   </url>
@@ -243,6 +263,11 @@
   </url>
   
   <url>
+    <loc>https://swarodaya.com/testimonials/</loc>
+    <lastmod>2016-03-02T11:48:13+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swarodaya.com/testimonials/dummy/</loc>
     <lastmod>2016-03-02T11:48:13+05:30</lastmod>
   </url>
@@ -283,37 +308,11 @@
   </url>
   
   <url>
-    <loc>https://swarodaya.com/blog/</loc>
-    <lastmod>2017-11-03T11:41:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://swarodaya.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swarodaya.com/</loc>
-    <lastmod>2017-11-03T11:41:31+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://swarodaya.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swarodaya.com/testimonials/</loc>
-    <lastmod>2016-03-02T11:48:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swarodaya.com/videos/</loc>
-    <lastmod>2016-10-27T08:56:11+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
