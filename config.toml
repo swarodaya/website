@@ -45,7 +45,7 @@ googleAnalytics = "UA-25128293-7"
     [[menu.main]]
         name = "Blog"
         identifier = "blog"
-        url = "blog.swarodaya.com"
+        url = "https://blog.swarodaya.com"
         weight = 3
 
     # Hero section
