@@ -33,8 +33,8 @@ googleAnalytics = "UA-25128293-7"
             enrol               = "Enrol"
             services            = "Services"
             acharya             = "Alumni"
-            contact             = "Contact"
             channels            = "Channels"
+            contact             = "Contact"
 
     # Hero section
     [params.hero]
@@ -108,7 +108,7 @@ googleAnalytics = "UA-25128293-7"
     # Acharya section
     [params.acharya]
         headline = "Residential Course Alumni"
-        bg = "bg-light"
+        bg = "bg-dark"
         title = "Batch of Sept, 2016<br/>Goa"
         img = "acharya.jpg"
         batch_title1 = "Batch of Sept, 2016<br/>Goa"
@@ -125,8 +125,8 @@ googleAnalytics = "UA-25128293-7"
 
     # Channels
     [params.channels]
-        headline = "Articles, Updates, and more..."
-        bg = "bg-dark"
+        headline = "Join us on these channels"
+        bg = "bg-light"
 
     # Contact section
     [params.contact]

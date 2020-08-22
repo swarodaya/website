@@ -26,9 +26,6 @@
             <li>
                 <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#services">{{ with .Site.Params.navigation.links.services }}{{ . }}{{ end }}</a>
             </li>
-            <li>
-                <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#channels">{{ with .Site.Params.navigation.links.channels }}{{ . }}{{ end }}</a>
-            </li>
             {{ range .Site.Menus.main.ByWeight }}
                 <li>
                     <a href="{{ .URL }}">{{ .Name }}</a>
@@ -36,6 +33,9 @@
             {{ end }}
             <li>
                 <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#acharya">{{ with .Site.Params.navigation.links.acharya }}{{ . }}{{ end }}</a>
+            </li>
+            <li>
+                <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#channels">{{ with .Site.Params.navigation.links.channels }}{{ . }}{{ end }}</a>
             </li>
             <li>
                 <a class="page-scroll" href="{{ if eq $isHomePage false }}{{ .Site.BaseURL }}/{{ end }}#contact">{{ with .Site.Params.navigation.links.contact }}{{ . }}{{ end }}</a>
