@@ -1,9 +1,9 @@
 {{ "<!-- HEADER -->" | safeHTML }}
 <header>
-    <div class="row" style="padding-top: 60px">
+    <div class="row" style="padding-top: 60px;color: #ff9900">
             <img src="logo.png" style="max-width: 20%">
 	    <h1>{{ with .Site.Params.hero.slogan }}{{ . | markdownify }}{{ end }}</h1>
-	    <h2>{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2>
+	    <h2 style="font-style:italic">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2>
     </div>
     <div class="container">
         <hr class="primary">
