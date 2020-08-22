@@ -143,7 +143,7 @@ googleAnalytics = "UA-25128293-7"
 
 		# Recent posts section
     [params.recentposts]
-        headline = "Blog"
+        headline = "Articles, Updates, and more..."
         bg = "bg-dark"
 
     # Contact section
