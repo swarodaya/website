@@ -48,6 +48,12 @@ googleAnalytics = "UA-25128293-7"
         url = "https://blog.swarodaya.com"
         weight = 3
 
+    [[menu.main]]
+        name = "Testimonials"
+        identifier = "testimonial"
+        url = "https://blog.swarodaya.com/category/testimonial/"
+        weight = 4
+
     # Hero section
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
