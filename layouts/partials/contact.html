@@ -9,14 +9,16 @@
             </div>
         </div>
         <div class="row">
+	    <div class="col-mg-2 col-md-2 text-center"></div>
             {{ range .Site.Params.contact.list }}
-		<div class="col-mg-12 col-md-6 text-center">
+		<div class="col-mg-8 col-md-4 text-center">
                     <div class="text-center">
                         <i class="fa {{ .icon }} fa-3x"></i>
                         <p>{{ .text | markdownify }}</p>
                     </div>
                 </div>
             {{ end }}
+	    <div class="col-mg-2 col-md-2 text-center"></div>
         </div>
     </div>
 </section>

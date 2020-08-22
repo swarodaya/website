@@ -1,7 +1,7 @@
 {{ "<!-- HEADER -->" | safeHTML }}
 <header>
     <div class="row" style="padding-top: 50px">
-	    <img src="logo.png">
+            <img src="logo.png" style="max-width: 20%">
 	    <h1>{{ with .Site.Params.hero.slogan }}{{ . | markdownify }}{{ end }}</h1>
 	    <h2>{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2>
     </div>
