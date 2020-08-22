@@ -133,11 +133,3 @@ googleAnalytics = "UA-25128293-7"
         bg = "bg-dark"
         description = ""
 
-        [[params.contact.list]]
-            icon = "fa-envelope"
-            text = "[info@swarodaya.com](mailto:info@swarodaya.com?subject=General Inquiry)"
-
-        [[params.contact.list]]
-            icon = "fa-phone"
-            text = "+91-9825-600347"
-
