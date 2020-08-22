@@ -28,7 +28,6 @@ googleAnalytics = "UA-25128293-7"
         brand = "Home"
 
         [params.navigation.links]
-            intro               = "Intro"
             learn               = "Learn"
             enrol               = "Enrol"
             services            = "Services"
@@ -42,7 +41,7 @@ googleAnalytics = "UA-25128293-7"
         slogan     = "SWARODAYA"
         subtitle   = "Maximize Your Potential"
 
-		# Intro section
+    # Intro section
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
