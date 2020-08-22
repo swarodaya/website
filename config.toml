@@ -34,25 +34,7 @@ googleAnalytics = "UA-25128293-7"
             services            = "Services"
             acharya             = "Alumni"
             contact             = "Contact"
-            recentposts         = "Recent"
-
-    [[menu.main]]
-        name = "YouTube"
-        identifier = "videos"
-        url = "https://www.youtube.com/channel/UCvaQxVPq4O_y29Mf7HKFUNA"
-        weight = 1
-
-    [[menu.main]]
-        name = "Blog"
-        identifier = "blog"
-        url = "https://blog.swarodaya.com"
-        weight = 3
-
-    [[menu.main]]
-        name = "Testimonials"
-        identifier = "testimonial"
-        url = "https://blog.swarodaya.com/category/testimonial/"
-        weight = 4
+            channels            = "Channels"
 
     # Hero section
     [params.hero]
@@ -141,8 +123,8 @@ googleAnalytics = "UA-25128293-7"
         batch_img5 = "201908udaipur.jpg"
         #text = "xyz"
 
-		# Recent posts section
-    [params.recentposts]
+    # Channels
+    [params.channels]
         headline = "Articles, Updates, and more..."
         bg = "bg-dark"
 
@@ -155,10 +137,6 @@ googleAnalytics = "UA-25128293-7"
         [[params.contact.list]]
             icon = "fa-envelope"
             text = "[info@swarodaya.com](mailto:info@swarodaya.com?subject=General Inquiry)"
-
-        [[params.contact.list]]
-            icon = "fa-facebook"
-            text = "[https://www.facebook.com/swarodaya/](https://www.facebook.com/swarodaya/)"
 
         [[params.contact.list]]
             icon = "fa-phone"
