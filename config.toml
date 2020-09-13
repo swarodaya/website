@@ -30,7 +30,7 @@ googleAnalytics = "UA-25128293-7"
         [params.navigation.links]
             learn               = "Learn"
             enrol               = "Enrol"
-            services            = "Services"
+            services            = "Consultation"
             acharya             = "Alumni"
             channels            = "Channels"
             contact             = "Contact"
@@ -90,7 +90,7 @@ googleAnalytics = "UA-25128293-7"
 
     # Services section
     [params.services]
-        headline = "Services"
+        headline = "Consultation"
         bg  = "bg-light"
 	text = ""
 
