@@ -17,7 +17,7 @@ googleAnalytics = "UA-25128293-7"
     # information about you and your website.
     name = "Swarodaya"
     description = "Maximize Your Potential"
-    keywords = "Swaryog,Swaryoga,Swarayog,Swarayoga,meditation,breathing,breathe,breath,patanjali,yogsutra"
+    keywords = "Swar Yog,meditation,breathing,breathe,breath,patanjali,yogsutra"
 
     # The path must be relative to the static folder
     favicon = "favicon.png"
@@ -45,7 +45,7 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Sri Vidya, Tantra, Astrology and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
+        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Shree Vidya, Tantra, Astrology and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
 
     # enrol section
     [params.enrol]
@@ -68,16 +68,16 @@ googleAnalytics = "UA-25128293-7"
 	text = ""
 
         [params.learn.row1]
-            title = "Swaryog"
-            text = "<p>Swaryog, an ancient science of breath awareness, has been practiced by yogis, spiritual masters, and seers of India, since thousands of years, to create a life of prosperity and abundance. Swar is breath and yog is to unite. Swar yog is the science of breath awareness where we observe and analyse our own breath, to make sense of ourselves, our lives and our surroundings. Swar yog sciences interpret breath on the dimensions of Nadis (the particular nostril from which the breath flow is on) and Tatwas (the exact place in the nostril from where it flows freely).</p><p>Learning the sacred science of Swar yog, will help you gain an in-depth understanding (theoretical and practical) of Nadis and Tatwas. It will help you:<ul><li>Make meaningful life decisions to create prosperity and abundance</li><li>Manage emotions and health better</li><li>Plan all your major and minor activities as per the flow of Swar</li><li>Correlate Vastu and Astrology with the science of Swar yog</li><li>Receive some special swar meditations and techniques to help you expand the threshold of your awareness and lead an insightful life.</li></ul>"
+            title = "Swar Yog"
+            text = "<p>Swar Yog, an ancient science of breath awareness, has been practiced by yogis, spiritual masters, and seers of India, since thousands of years, to create a life of prosperity and abundance. Swar is breath and yog is to unite. Swar yog is the science of breath awareness where we observe and analyse our own breath, to make sense of ourselves, our lives and our surroundings. Swar yog sciences interpret breath on the dimensions of Nadis (the particular nostril from which the breath flow is on) and Tatwas (the exact place in the nostril from where it flows freely).</p><p>Learning the sacred science of Swar yog, will help you gain an in-depth understanding (theoretical and practical) of Nadis and Tatwas. It will help you:<ul><li>Make meaningful life decisions to create prosperity and abundance</li><li>Manage emotions and health better</li><li>Plan all your major and minor activities as per the flow of Swar</li><li>Correlate Vastu and Astrology with the science of Swar yog</li><li>Receive some special swar meditations and techniques to help you expand the threshold of your awareness and lead an insightful life.</li></ul>"
 
         [params.learn.row2]
             title = "Patanjali Yog Sutra"
             text = "<p>One of the six vedic shat-darshans, this ancient most self-help vedic wisdom of India, addresses the maladies of the human mind. This text, composed of 196 sutras, divided into four padas - Samadhi, Sadhana, Vibhuti and Kaivalya, systematically presents the knowledge of Yog in an organized way. During the session, you will understand all the 196 sutras, in-depth, with practical to-do exercises, that shall help you to imbibe the essence of these sutras into day-to-day modern life.</p>Understanding the Yog Sutras will help you gain vedic insights on:<ul><li>How to clear the mind from doubt and duality and make life meaningful and contented.</li><li>How to recognize energy leakages in day-to-day life, overcome them, and find the ISHWAR TATWA that lies within you.</li><li>How to unlock your core potential and grow to the next level.</li></ul>"
 
         [params.learn.row3]
-            title = "Sri Vidya Sadhana"
-            text = "<p>Sri is auspicious and vidya is knowledge. Sri Vidya is that knowledge which brings auspiciousness. It is that knowledge brings all that is needed for us to evolve into higher levels. This vidya is devoted to the worship of the Mother Goddess. It is called the bhog and moksha pradayini vidya, as it is aimed at material prosperity and spiritual liberation. Sri Yantra, a complex geometric diagram, becomes the medium through which this worship takes place for the manifestation of material and spiritual desires.</p><p>In the Shree Vidya session, you will:<ul><li>Receive a complete theoretical understanding of the subject and a complete practical guidance of the puja ritual.</li><li>Receive an energised Sri Yantra to be kept in your home/pooja for the prosperity of the family.</li><li>Gain the practical and theoretical knowledge of Agni Pooja - an ancient vedic ritual where Mantras are used along with Agni to create a better life.</li></ul>"
+            title = "Shree Vidya Sadhana"
+            text = "<p>Shree is auspicious and vidya is knowledge. Shree Vidya is that knowledge which brings auspiciousness. It is that knowledge brings all that is needed for us to evolve into higher levels. This vidya is devoted to the worship of the Mother Goddess. It is called the bhog and moksha pradayini vidya, as it is aimed at material prosperity and spiritual liberation. Shree Yantra, a complex geometric diagram, becomes the medium through which this worship takes place for the manifestation of material and spiritual desires.</p><p>In the Shree Vidya session, you will:<ul><li>Receive a complete theoretical understanding of the subject and a complete practical guidance of the puja ritual.</li><li>Receive an energised Shree Yantra to be kept in your home/pooja for the prosperity of the family.</li><li>Gain the practical and theoretical knowledge of Agni Pooja - an ancient vedic ritual where Mantras are used along with Agni to create a better life.</li></ul>"
 
         [params.learn.row4]
             title = "Saraswati Sadhana"
