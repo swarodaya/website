@@ -92,17 +92,15 @@ googleAnalytics = "UA-25128293-7"
     [params.services]
         headline = "Consultation"
         bg  = "bg-light"
-	text = ""
+	text = "Vedic wisdom talks about the three levels of pain and the ways through which these three levels of pain can be addressed.<ul><li><b>Adhibhautika:</b> Adhibhautika pain is the pain inflicted on mankind through the five elements of nature and can be addressed by harmonizing the five elements in our living/work spaces (home/office) through the Vastu Shastra guidelines. </li><li><b>Adhidevik:</b> Adhidevik pain is the pain that is inflicted on mankind due to the unfavorable positions of planets in the skies, and this can be addressed through astrological remedies. </li><li><b>Adhyatmik:</b> Adhyatmik is the kind of pain that is inflicted by Man, on the self and can only be resolved by correcting one's habits and thought patterns.</li></ul>"
 
-        [[params.services.list]]
-            icon = "fa-home"
-            title = "Vastu Shastra"
-            text = "Vastu Shastra is an ancient Indian science that is based upon the laws of nature and its effects on human dwellings. It formlates the rules for living spaces that would ensure harmony, prosperity, and health for its residents. These laws are based on the five elements of nature — Water, Air, Fire, Earth, and Space — and their effects on human life.<br/><br/> We at Swarodaya, provide simple and effective solutions  to make your living space vastu compliant, and we do this without recommending structural demolitions. We study the floor plan and interior design of your residence, and then align it with your horoscope based on your planetary strengths, to give customized recommendations for non-destructive changes.  These changes help you realize your goals and aspirations, and also help you resolve your life challenges and problems.<br/><br/> We help you to: <ul> <li>Gain new career opportunities and growth in your field of work.</li> <li>Improve your finances</li> <li>Strengthening of relations within family, friends, and colleagues.</li> <li>Help children learn better and perform at the best of their abilities.</li> <li>Reduce mental stress, enhance clarity of thought and increase the peace of mind.</li> </ul>"
+     [params.services.section1]
+        headline = "Life Consultation"
+        text = "Life Consultation addresses all the above level of pain through an integrating vastu, and it includes solutions at three levels - an in-depth examination of your living spaces (either home, work, or both), your birth chart and your thought patterns, and based on this analysis you receive an integrated solution which helps you overcome your life challenges, maximize your potential, and live your life purpose! For a holistic consultation, email us at <a href=\"mailto:info@swarodaya.com\">info@swarodaya.com</a>."
 
-        [[params.services.list]]
-            icon = "fa-star"
-            title = "Astrology"
-            text = "Jyotish - Astrology - is an ancient traditional Hindu system of astrology, and is one of the most time-tested and oldest systems in the world. The Sanskrit word 'Jyotish' (ja-yo-teesh) means 'light of God.' The Light that guides the inner self, reducing uncertainty, allowing us to plan our future.<br/><br/> At Swarodaya, we provide you with effective astrological solutions, which include use of gemstones and mantras to help you overcome obstacles in life with ease, and achieve your goals.<br/><br/> We analyze your birth-chart to help you understand:<ul> <li>Your inner self, your strengths and your weakness, your natural skills and abilities.</li> <li>Understand the cycles of your life: your favorable and unfavorable years.</li> <li>Provide astrological recommendations to overcome the difficult periods of life through gemstones and other solutions.</li> <li>Provide guidance in matters of education, on the choice of careers, profession and other important aspects of life.</li> <li>Help determine when to begin a project, a new enterprise or relocation.</li> </ul>"
+     [params.services.section2]
+         headline = "Problem Remedy"
+         text = "In this consultation, you can choose to receive guidance either through Astrology, Vastu, or Numerology. Depending on the medium you choose, we will provide you with simple and effective solutions to your life challenges through it. You may write to us on <a href=\"mailto:info@shubhconsulting.in\">info@shubhconsulting.in</a> or WhatsApp on +91-98256-00347."
 
     # Acharya section
     [params.acharya]
