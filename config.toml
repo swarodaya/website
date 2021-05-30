@@ -43,7 +43,7 @@ googleAnalytics = "UA-25128293-7"
     [params.intro]
         headline = "Introduction"
         bg = "bg-dark"
-        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutras of Patanjali, Shree Vidya, Tantra, Astrology and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
+        text = "Swarodaya, an endeavor of Seema Karecha, is aimed at helping individuals transform their lives through ancient vedic wisdom. Hailing from a cultural background of artistic lineage, she holds degrees in Philosophy, Psychology, and English literature. An explorer of timeless wisdom, she paved her spiritual journey with the knowledge of Swar Yog, Yog Sutra of Patanjali, Shree Vidya, Tantra, Astrology and Vastu Shastra under the guidance of accomplished gurus. She conducts training sessions and also provides services for the above. In her training sessions, she teaches the essence of these mystical sciences, in a simple and yet effective way that can help a modern person attain clarity, connect with their core and live life at an optimal level."
 
     # enrol section
     [params.enrol]
@@ -53,10 +53,10 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.enrol.list.row1]]
             title = "Online Sessions"
-            text = "<p>The Swarodaya one-on-one online learning programs, designed in a way to help you understand and grasp the subject well and facilitate your learning from the ease of your own home! Online sessions details:<p><ul><li>Swar Yog - Six sessions (one session a week)</li><li>Patanjali Yog Sutras- Six sessions (one session a week)</li><li>Shree Vidya Sadhana - Single session</li><li>Saraswati Sadhana - Single session</li><li>Shakti Sadhana - Single session</li></ul>"
+            text = "<p>The Swarodaya one-on-one online learning programs, designed in a way to help you understand and grasp the subject well and facilitate your learning from the ease of your own home! Online sessions details:<p><ul><li>Swar Yog - Six sessions (one session a week)</li><li>Patanjali Yog Sutra - Six sessions (one session a week)</li><li>Shree Vidya Sadhana - Single session</li><li>Saraswati Sadhana - Single session</li><li>Shakti Sadhana - Single session</li></ul>"
 
         [[params.enrol.list.row1]]
-            title = "Classroom Session"
+            title = "Classroom Sessions"
             text = "<p>The details of the classroom session will be uploaded as and when the session is planned.</p><p>"
 
     # Learn section
@@ -71,7 +71,7 @@ googleAnalytics = "UA-25128293-7"
 
         [params.learn.row2]
             title = "Patanjali Yog Sutra"
-            text = "<p>One of the six vedic shat-darshans, this ancient most self-help vedic wisdom of India, addresses the maladies of the human mind. This text, composed of 196 sutras, divided into four padas - Samadhi, Sadhana, Vibhuti and Kaivalya, systematically presents the knowledge of Yog in an organized way. During the session, you will understand all the 196 sutras, in-depth, with practical to-do exercises, that shall help you to imbibe the essence of these sutras into day-to-day modern life.</p>Understanding the Yog Sutras will help you gain vedic insights on:<ul><li>How to live a more contented and meaningful existence.</li><li>How to clear your mind on the various issues that bother you, that bring down your energies and slow your progress.</li><li>Understand your own strengths, weaknesses and your behaviour patterns.</li><li>Equip yourself with effective daily practices that will help you manage yourself better and improve your karma.</li></ul>"
+            text = "<p>One of the six vedic shat-darshans, this ancient most self-help vedic wisdom of India, addresses the maladies of the human mind. This text, composed of 196 sutras, divided into four padas - Samadhi, Sadhana, Vibhuti and Kaivalya, systematically presents the knowledge of Yog in an organized way. During the session, you will understand all the 196 sutras, in-depth, with practical to-do exercises, that shall help you to imbibe the essence of these sutras into day-to-day modern life.</p>Understanding the Yog Sutra will help you gain vedic insights on:<ul><li>How to live a more contented and meaningful existence.</li><li>How to clear your mind on the various issues that bother you, that bring down your energies and slow your progress.</li><li>Understand your own strengths, weaknesses and your behaviour patterns.</li><li>Equip yourself with effective daily practices that will help you manage yourself better and improve your karma.</li></ul>"
 
         [params.learn.row3]
             title = "Shree Vidya Sadhana"
@@ -89,15 +89,19 @@ googleAnalytics = "UA-25128293-7"
     [params.services]
         headline = "Consultation"
         bg  = "bg-light"
-	text = "Vedic wisdom talks about the three levels of pain and the ways through which these three levels of pain can be addressed.<ul><li><b>Adhibhautika:</b> Adhibhautika pain is the pain inflicted on mankind through the five elements of nature and can be addressed by harmonizing the five elements in our living/work spaces (home/office) through the Vastu Shastra guidelines. Vedic wisdom talks about the three levels of pain and the ways through which these three levels of pain can be addressed. </li><li><b>Adhidevik:</b> Adhidevik pain is the pain that is inflicted on the individual due to the planetary alignment, and this is addressed through vedic astrology. After receiving your birth details (time, day and place), your horoscope is analysed and simple and do-able remedies are provided. Done over the phone, in a one-to-one conversation, astrological guidance can be received through a 'Life Report' or through 'Question Study'. <ul><li><b>Life Report:</b> A life report is an in-depth analysis of various areas of your life like education, work, relationships, relocation, future growth etc. A life report imparts you with astrological insights on the way you should approach the various areas of your life and effective ways to deal with them.</li><li><b>Question Study:</b> A question study is an in-depth analysis of a specific concern of your life. After analysing your horoscope, you receive astrological insights on the problem, its timeline and effective remedies that will help you gain relief from it.</li></ul></li><li><b>Adhyatmik:</b> Adhyatmik is the pain inflicted by the Self, on the self and can only be resolved by correcting one's habits and thought patterns. Adhyatmik transformation is an integral part of the Patanjali Yog Sutra Session. When you enrol for the one-to-one session, in the process of learning the sutras, you get a chance to transform your life with the vedic wisdom.</li></ul>"
+	text = "We provide personalised consultation based on vedic wisdom, which talks about the three levels of pain and the ways through which these three levels of pain can be addressed."
 
      [params.services.section1]
-        headline = "Life Consultation"
-        text = "Life Consultation addresses all the above level of pain through an integrating vastu, and it includes solutions at three levels - an in-depth examination of your living spaces (either home, work, or both), your birth chart and your thought patterns, and based on this analysis you receive an integrated solution which helps you overcome your life challenges, maximize your potential, and live your life purpose! For a holistic consultation, email us at <a href=\"mailto:info@swarodaya.com\">info@swarodaya.com</a>."
+        headline = "Adhibhautik"
+        text = "Adhibhautika pain is the pain inflicted on the individual through the five elements of nature and this can be addressed by harmonizing the elements in our living/work spaces by following the Vastu Shastra guidelines. After receiving your floor plan, it is analysed in the context of your horoscope and then unique and customized solutions are designed, such that your space becomes harmonious and you enjoy growth, well-being and prosperity."
 
      [params.services.section2]
-         headline = "Problem Remedy"
-         text = "In this consultation, you can choose to receive guidance through one or more of these mediums: Astrology, Vastu, and Numerology. Depending on the mediums you choose, we will provide you with simple and effective remedies to your problem. You may write to us on <a href=\"mailto:info@shubhconsulting.in\">info@shubhconsulting.in</a> or WhatsApp on +91-98256-00347."
+         headline = "Adhidevik"
+         text = "Adhidevik pain is the pain that is inflicted on the individual due to the planetary alignment, and this is addressed through vedic astrology. After receiving your birth details (time, day and place), your horoscope is analysed and simple and do-able remedies are provided. Done over the phone, in a one-to-one conversation, astrological guidance can be received through a 'Life Report' or through 'Question Study'. <ul><li><b>Life Report:</b> A life report is an in-depth analysis of various areas of your life like education, work, relationships, relocation, future growth etc. A life report imparts you with astrological insights on the way you should approach the various areas of your life and effective ways to deal with them.</li><li><b>Question Study:</b> A question study is an in-depth analysis of a specific concern of your life. After analysing your horoscope, you receive astrological insights on the problem, its timeline and effective remedies that will help you gain relief from it.</li></ul>"
+
+     [params.services.section3]
+         headline = "Adhyatmik"
+	 text = "Adhyatmik is the pain inflicted by the Self, on the self and can only be resolved by correcting one's habits and thought patterns. Adhyatmik transformation is an integral part of the Patanjali Yog Sutra Session. When you enrol for the one-to-one session, in the process of learning the sutras, you get a chance to transform your life with the vedic wisdom."
 
     # Contact section
     [params.contact]
