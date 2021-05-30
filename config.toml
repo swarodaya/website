@@ -25,15 +25,13 @@ googleAnalytics = "UA-25128293-7"
 
     # Navigation
     [params.navigation]
-        brand = "Home"
+        brand = "Read Blog"
 
         [params.navigation.links]
             learn               = "Learn"
             enrol               = "Enrol"
             services            = "Consultation"
-            acharya             = "Alumni"
-            channels            = "Channels"
-            contact             = "Contact"
+            contact             = "Connect"
 
     # Hero section
     [params.hero]
@@ -101,32 +99,9 @@ googleAnalytics = "UA-25128293-7"
          headline = "Problem Remedy"
          text = "In this consultation, you can choose to receive guidance through one or more of these mediums: Astrology, Vastu, and Numerology. Depending on the mediums you choose, we will provide you with simple and effective remedies to your problem. You may write to us on <a href=\"mailto:info@shubhconsulting.in\">info@shubhconsulting.in</a> or WhatsApp on +91-98256-00347."
 
-    # Acharya section
-    [params.acharya]
-        headline = "Residential Course Alumni"
-        bg = "bg-dark"
-        title = "Batch of Sept, 2016<br/>Goa"
-        img = "acharya.jpg"
-        batch_title1 = "Batch of Sept, 2016<br/>Goa"
-        batch_img1 = "201709goa.jpg"
-        batch_title2 = "Batch of Feb, 2017<br/>Udaipur"
-        batch_img2 = "201702udaipur.jpg"
-        batch_title3 = "Batch of Feb, 2018<br/>Udaipur"
-        batch_img3 = "201802udaipur.jpg"
-        batch_title4 = "Batch of Sep, 2018<br/>Udaipur"
-        batch_img4 = "201809udaipur.jpg"
-        batch_title5 = "Batch Of Aug, 2019<br/>Udaipur"
-        batch_img5 = "201908udaipur.jpg"
-        #text = "xyz"
-
-    # Channels
-    [params.channels]
-        headline = "Join us on these channels"
-        bg = "bg-light"
-
     # Contact section
     [params.contact]
-        headline = "Contact"
+        headline = "Connect"
         bg = "bg-dark"
         description = ""
 
