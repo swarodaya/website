@@ -5,9 +5,6 @@ title = "Swarodaya - Maximize Your Potential"
 canonifyurls = false
 googleAnalytics = "UA-25128293-7"
 
-[markup]
-    defaultMarkdownHandler = "blackfriday"
-
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
@@ -29,8 +26,8 @@ googleAnalytics = "UA-25128293-7"
 
         [params.navigation.links]
             learn               = "Learn"
-            enrol               = "Enrol"
             services            = "Consultation"
+            enrol               = "Enrol"
             contact             = "Connect"
 
     # Hero section
@@ -53,7 +50,7 @@ googleAnalytics = "UA-25128293-7"
 
         [[params.enrol.list.row1]]
             title = "Online Sessions"
-            text = "<p>The Swarodaya one-on-one online learning programs, designed in a way to help you understand and grasp the subject well and facilitate your learning from the ease of your own home! Online sessions details:<p><ul><li>Swar Yog - Six sessions (one session a week)</li><li>Patanjali Yog Sutra - Six sessions (one session a week)</li><li>Shree Vidya Sadhana - Single session</li><li>Saraswati Sadhana - Single session</li><li>Shakti Sadhana - Single session</li></ul>"
+            text = "<p>The Swarodaya one-on-one online learning programs, designed in a way to help you understand and grasp the subject well and facilitate your learning from the ease of your own home! Online sessions details:<p><ul><li>Swar Yog - Six sessions (one session a week)</li><li>Soma Sadhana - Single session</li><li>Shree Vidya Sadhana - Single session</li><li>Saraswati Sadhana - Single session</li><li>Shakti Sadhana - Single session</li><li>Patanjali Yog Sutra - Six sessions (one session a week)</li></ul>"
 
         [[params.enrol.list.row1]]
             title = "Classroom Sessions"
@@ -70,8 +67,8 @@ googleAnalytics = "UA-25128293-7"
             text = "<p>Swar Yog, an ancient science of breath awareness, has been practiced by yogis, spiritual masters, and seers of India, since thousands of years, to create a life of prosperity and abundance. Swar is breath and yog is to unite. Swar Yog is the science of breath awareness where we observe and analyse our own breath, to make sense of ourselves, our lives and our surroundings. Swar Yog sciences interpret breath on the dimensions of Nadis (the particular nostril from which the breath flow is on) and Tatwas (the exact place in the nostril from where it flows freely).</p><p>Learning the sacred science of Swar Yog, will help you gain an in-depth understanding (theoretical and practical) of Nadis and Tatwas. It will help you:<ul><li>Make meaningful life decisions to create prosperity and abundance</li><li>Manage emotions and health better</li><li>Plan all your major and minor activities as per the flow of Swar</li><li>Correlate Vastu and Astrology with the science of Swar Yog</li><li>Receive some special swar meditations and techniques to help you expand the threshold of your awareness and lead an insightful life.</li></ul>"
 
         [params.learn.row2]
-            title = "Patanjali Yog Sutra"
-            text = "<p>One of the six vedic shat-darshans, this ancient most self-help vedic wisdom of India, addresses the maladies of the human mind. This text, composed of 196 sutras, divided into four padas - Samadhi, Sadhana, Vibhuti and Kaivalya, systematically presents the knowledge of Yog in an organized way. During the session, you will understand all the 196 sutras, in-depth, with practical to-do exercises, that shall help you to imbibe the essence of these sutras into day-to-day modern life.</p>Understanding the Yog Sutra will help you gain vedic insights on:<ul><li>How to live a more contented and meaningful existence.</li><li>How to clear your mind on the various issues that bother you, that bring down your energies and slow your progress.</li><li>Understand your own strengths, weaknesses and your behaviour patterns.</li><li>Equip yourself with effective daily practices that will help you manage yourself better and improve your karma.</li></ul>"
+            title = "Soma Sadhana"
+            text = "<p>Soma Sadhana is a sadhana (ritual) to invite Grace of the Mother Moon and her energies into your life. Learning Soma Sadhana will help you:<ul><li>Strengthen the influence of planet Moon in your horoscope.</li><li>Gain control over fluctuating emotions and mood swings.</li><li>Plan your days according to the moon phases and tithis to improve outcomes.</li><li>Create inner harmonization and empowerment.</li><li>Develop a sense of calm; and remain joyous and happy.</li><li>Improve relationships with family and friends.</li></ul><p>In the session, you will learn:<ul><li>An ancient ritual dedicated to the Moon, its phases (shukla and krishna paksha), and its 15 tithis.</li><li>You will be initiated, taught the mantras related to the sadhana</li><li>You will learn the ancient method of creating the yantra, and the proper techniques to calibrating and activating the yantra with your personal energies.</li></ul><p>Once initiated, this ritual takes only 15 minutes to perform."
 
         [params.learn.row3]
             title = "Shree Vidya Sadhana"
@@ -85,27 +82,22 @@ googleAnalytics = "UA-25128293-7"
             title = "Shakti Sadhana"
             text = "<p>Shakti Sadhana is all about establishing the presence of the Divine Mother within you. It is a very empowering process.</p><p>Learning this sadhana will help you to:<ul><li>Connect with the Mother and obtain her guidance whenever feeling lost.</li><li>Create a life of abundance at all levels.</li><li>Build yourself and lead your life in a very different direction.</li></ul><p>The Mother Divine is very powerful and everywhere, but after being initiated into this Sadhana, you will be:<ul><li>Able to feel her presence closely and will be able to make use of this energy.</li><li>Receive her blessings in your being.</li><li>Bring about a strong sense of stability, protection and nourishment within.</li><li>Navigate through the most difficult situations of your life maintaining your dignity and grace.</li></ul>"
 
+        [params.learn.row6]
+            title = "Patanjali Yog Sutra"
+            text = "<p>One of the six vedic shat-darshans, this ancient most self-help vedic wisdom of India, addresses the maladies of the human mind. This text, composed of 196 sutras, divided into four padas - Samadhi, Sadhana, Vibhuti and Kaivalya, systematically presents the knowledge of Yog in an organized way. During the session, you will understand all the 196 sutras, in-depth, with practical to-do exercises, that shall help you to imbibe the essence of these sutras into day-to-day modern life.</p>Understanding the Yog Sutra will help you gain vedic insights on:<ul><li>How to live a more contented and meaningful existence.</li><li>How to clear your mind on the various issues that bother you, that bring down your energies and slow your progress.</li><li>Understand your own strengths, weaknesses and your behaviour patterns.</li><li>Equip yourself with effective daily practices that will help you manage yourself better and improve your karma.</li></ul>"
+
     # Services section
     [params.services]
         headline = "Consultation"
         bg  = "bg-light"
-	text = "We provide personalised consultation based on vedic wisdom, which talks about the three levels of pain and the ways through which these three levels of pain can be addressed."
-
-     [params.services.section1]
-        headline = "Adhibhautik"
-        text = "Adhibhautika pain is the pain inflicted on the individual through the five elements of nature and this can be addressed by harmonizing the elements in our living/work spaces by following the Vastu Shastra guidelines. After receiving your floor plan, it is analysed in the context of your horoscope and then unique and customized solutions are designed, such that your space becomes harmonious and you enjoy growth, well-being and prosperity."
-
-     [params.services.section2]
-         headline = "Adhidevik"
-         text = "Adhidevik pain is the pain that is inflicted on the individual due to the planetary alignment, and this is addressed through vedic astrology. After receiving your birth details (time, day and place), your horoscope is analysed and simple and do-able remedies are provided. Done over the phone, in a one-to-one conversation, astrological guidance can be received through a 'Life Report' or through 'Question Study'. <ul><li><b>Life Report:</b> A life report is an in-depth analysis of various areas of your life like education, work, relationships, relocation, future growth etc. A life report imparts you with astrological insights on the way you should approach the various areas of your life and effective ways to deal with them.</li><li><b>Question Study:</b> A question study is an in-depth analysis of a specific concern of your life. After analysing your horoscope, you receive astrological insights on the problem, it's timeline and effective remedies that will help you gain relief from it.</li></ul>"
-
-     [params.services.section3]
-         headline = "Adhyatmik"
-	 text = "Adhyatmik is the pain inflicted by the self, on the self and can only be resolved by changing your habits and thought patterns. Adhyatmik transformation is an integral part of the Patanjali Yog Sutra Session. When you enrol for the one-to-one session, in the process of learning the Yog Sutra, you open up new avenues to transform your life."
+	text = "We provide personalised consultation based on the ancient sciences of vastu shastra and jyotish.<p>Jyothish is an ancient traditional Hindu system of astrology, and is one of the most time-tested and oldest systems in the world. The Sanskrit word 'Jyotish' (ja-yo-teesh) means 'science of light.' In the western world, it is also known as Vedic astrology.<p>After receiving your birth details (time, day and place), your horoscope is analyzed and simple and doable remedies are provided. Done over the phone in a one-to-one conversation, astrological guidance can help you understand:<ul><li>The strengths and weaknesses of your horoscope.</li><li>The favorable and unfavorable cycles of your life.</li><li>Guidance on matters of personal and professional life.</li><li>Guidance on matters of work and relationships.</li><li>Guidance on matters of education, relocation, and other life decisions.</li></ul>"
 
     # Contact section
     [params.contact]
         headline = "Connect"
         bg = "bg-dark"
         description = ""
+
+[markup.goldmark.renderer]
+	unsafe= true
 

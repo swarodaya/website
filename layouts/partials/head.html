@@ -4,7 +4,6 @@
 <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
 <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
 <meta name="keywords" content="{{.Site.Params.keywords}}">
-{{ .Hugo.Generator }}
 <title>{{ .Site.Title }}</title>
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}/{{ .Site.Params.favicon }}">
