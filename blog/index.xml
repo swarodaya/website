@@ -6,15 +6,14 @@
     <description>Recent content in Blogs on Swarodaya - Maximize Your Potential</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 18:14:12 +0530</lastBuildDate><atom:link href="https://swarodaya.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2020 18:14:12 +0530</lastBuildDate>
+    <atom:link href="https://swarodaya.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://swarodaya.com/blog/dummy/</link>
       <pubDate>Sat, 22 Aug 2020 18:14:12 +0530</pubDate>
-      
       <guid>https://swarodaya.com/blog/dummy/</guid>
       <description>The blog has moved to blog.swarodaya.com. Please update your bookmarks.</description>
     </item>
-    
   </channel>
 </rss>
