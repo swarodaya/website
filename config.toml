@@ -1,8 +1,8 @@
 baseurl = "https://swarodaya.com"
-publishdir = "public"
 languageCode = "en-us"
 title = "Swarodaya - Maximize Your Potential"
 canonifyurls = false
+theme = "dummy"
 googleAnalytics = "UA-25128293-7"
 
 [params]
