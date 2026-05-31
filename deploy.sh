@@ -1,5 +1,5 @@
 # clean up
-trgt="../public"
+trgt="../swarodaya-public"
 rm $trgt/{404.html,favicon.png,index.html,index.xml,logo.png,sitemap.xml}
 if (( $? )); then
 	echo "Error while cleaning up files" >&2
@@ -15,7 +15,7 @@ else
 fi
 
 # build
-hugo -d ../public
+hugo -d ../swarodaya-public
 
 # commit and push to origin
 git add -A
